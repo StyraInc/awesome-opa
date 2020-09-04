@@ -2,6 +2,8 @@
 
 A curated list of OPA related tools, frameworks and articles.
 
+**WORK IN PROGRESS**
+
 ## Contents
 
 - [Official Projects](#official-projects)
@@ -16,6 +18,16 @@ A curated list of OPA related tools, frameworks and articles.
 - [OPA](https://github.com/open-policy-agent/opa) - Open Policy Agent Github repository
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Kubernetes admission controller using OPA
 - [Conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data
+
+## Language integrations
+
+- [Java](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
+- [Spring Security](https://github.com/Bisnode/opa-spring-security) - OPA Spring Security Library
+
+## Datasource integrations
+
+- [Kafka authorizer](https://github.com/Bisnode/opa-kafka-plugin) - Kafka authorizer plugin with example policies
+- [Data Filtering on Spring Data](https://github.com/jferrater/opa-data-filter-spring-boot-starter) - Data filtering for MongoDB and JPA using OPA
 
 ## IDE and editor integrations
 
