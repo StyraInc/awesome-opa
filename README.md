@@ -1,6 +1,6 @@
 # awesome-opa
 
-A curated list of OPA related tools, frameworks and articles.
+A curated list of Open Policy Agent (OPA) related tools, frameworks and articles.
 
 **WORK IN PROGRESS**
 
@@ -10,6 +10,7 @@ A curated list of OPA related tools, frameworks and articles.
   - [Repositories](#repositories)
 - [Language integrations](#language-integrations)
   - [Java](#java)
+  - [Python](#python)
 - [Datasource integrations](#datasource-integrations)
 - [IDE and editor integrations](#ide-and-editor-integrations)
 - [Infrastructure as code](#infrastructure-as-code)
@@ -29,6 +30,11 @@ A curated list of OPA related tools, frameworks and articles.
 - [Java](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
 - [Spring Security](https://github.com/Bisnode/opa-spring-security) - OPA Spring Security Library
 - [Gradle](https://github.com/Bisnode/opa-gradle-plugin) - OPA plugin for Gradle
+
+### Python
+
+- [OPA Python client](https://github.com/Turall/OPA-python-client) - Python client for OPA's REST API
+- [Rego Python](https://github.com/open-policy-agent/rego-python) - Python package for interacting with Rego
 
 ## Datasource integrations
 
