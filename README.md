@@ -9,7 +9,7 @@ A curated list of OPA related tools, frameworks and articles.
 - [Official Projects](#official-projects)
   - [Repositories](#repositories)
 - [Language integrations](#language-integrations)
-  - [Jaba](#java)
+  - [Java](#java)
 - [Datasource integrations](#datasource-integrations)
 - [IDE and editor integrations](#ide-and-editor-integrations)
 - [Infrastructure as code](#infrastructure-as-code)
