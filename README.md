@@ -8,6 +8,9 @@ A curated list of OPA related tools, frameworks and articles.
 
 - [Official Projects](#official-projects)
   - [Repositories](#repositories)
+- [Language integrations](#language-integrations)
+  - [Jaba](#java)
+- [Datasource integrations](#datasource-integrations)
 - [IDE and editor integrations](#ide-and-editor-integrations)
 - [Infrastructure as code](#infrastructure-as-code)
 
@@ -21,8 +24,11 @@ A curated list of OPA related tools, frameworks and articles.
 
 ## Language integrations
 
+### Java
+
 - [Java](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
 - [Spring Security](https://github.com/Bisnode/opa-spring-security) - OPA Spring Security Library
+- [Gradle](https://github.com/Bisnode/opa-gradle-plugin) - OPA plugin for Gradle
 
 ## Datasource integrations
 
