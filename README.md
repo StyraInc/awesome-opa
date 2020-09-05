@@ -11,9 +11,13 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
 - [Language integrations](#language-integrations)
   - [Java](#java)
   - [Python](#python)
+  - [PHP](#php)
+  - [Docker](#docker)
 - [Datasource integrations](#datasource-integrations)
 - [IDE and editor integrations](#ide-and-editor-integrations)
 - [Infrastructure as code](#infrastructure-as-code)
+- [Tools and utilities](#tools-and-utilities)
+- [Support and community](#support-and-community)
 
 ## Official projects
 
