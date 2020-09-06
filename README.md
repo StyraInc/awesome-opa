@@ -60,6 +60,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 - [Rego Policies](https://github.com/redhat-cop/rego-policies) - Gatekeeper policies collection
 - [Gatekeeper Policy Manager](https://github.com/sighupio/gatekeeper-policy-manager) - Web UI for Gatekeeper policies
+- [Validating and Mutating Admission Control Example](https://github.com/tsandall/validating-and-mutating-example) - Example validating and mutation admission controller
 
 ### Blogs and articles
 
