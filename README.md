@@ -1,6 +1,8 @@
 # awesome-opa
 
-A curated list of Open Policy Agent (OPA) related tools, frameworks and articles.
+<img src="assets/awesome-opa.png" width="150"><br/><br/>
+
+A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy Agent (OPA) related tools, frameworks and articles.
 
 **WORK IN PROGRESS**
 
