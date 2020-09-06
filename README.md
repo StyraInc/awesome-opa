@@ -56,7 +56,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Kubernetes
 
-- [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool to assist with the creation and management of templates and constraints when using Gatekeeper
+- [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 - [Rego Policies](https://github.com/redhat-cop/rego-policies) - Gatekeeper policies collection
 - [Gatekeeper Policy Manager](https://github.com/sighupio/gatekeeper-policy-manager) - Web UI for Gatekeeper policies
