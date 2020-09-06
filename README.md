@@ -13,9 +13,12 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
   - [Python](#python)
   - [PHP](#php)
   - [Docker](#docker)
+- [Kubernetes](#kubernetes)
+  - [Blogs and articles](#kubernetes-articles)
 - [Datasource integrations](#datasource-integrations)
 - [IDE and editor integrations](#ide-and-editor-integrations)
-- [Infrastructure as code](#infrastructure-as-code)
+- [Infrastructure as code](#iac)
+  - [Blogs and articles](#iac-articles)
 - [Tools and utilities](#tools-and-utilities)
 - [Support and community](#support-and-community)
 
@@ -27,7 +30,7 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Kubernetes admission controller using OPA
 - [Conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data
 
-## Language integrations
+## Language & platform integrations
 
 ### Java
 
@@ -48,6 +51,12 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
 
 - [OPA Docker authorization](https://github.com/open-policy-agent/opa-docker-authz) - OPA to help policy-enable an existing services
 
+## Kubernetes
+
+### Blogs and articles
+
+- [Using OPA on EKS](https://aws.amazon.com/blogs/opensource/using-open-policy-agent-on-amazon-eks/) - Using Open Policy Agent on Amazon EKS
+
 ## Datasource integrations
 
 - [Kafka authorizer](https://github.com/Bisnode/opa-kafka-plugin) - Kafka authorizer plugin with example policies
@@ -64,6 +73,10 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
 
 - [Regula](https://github.com/fugue/regula) - Evaluates Terraform code for potential security misconfigurations and compliance violations.
 - [Example Terraform policies](https://github.com/Scalr/sample-tf-opa-policies) - Example Terraform policies
+
+### Blogs and articles
+
+- [AWS CDK with OPA](https://aws.amazon.com/blogs/opensource/realize-policy-as-code-with-aws-cloud-development-kit-through-open-policy-agent/) - Realize Policy-as-Code with AWS Cloud Development Kit through Open Policy Agent
 
 ## Tools and utilities
 
