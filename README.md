@@ -55,6 +55,7 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
 
 ### Blogs and articles
 
+- [Policy Enabled Kubernetes with OPA](https://www.capitalone.com/tech/software-engineering/policy-enabled-kubernetes-with-open-policy-agent/) - Guide on setting up OPA for kubernetes admission control
 - [Using OPA on EKS](https://aws.amazon.com/blogs/opensource/using-open-policy-agent-on-amazon-eks/) - Using Open Policy Agent on Amazon EKS
 
 ## Datasource integrations
@@ -76,6 +77,7 @@ A curated list of Open Policy Agent (OPA) related tools, frameworks and articles
 
 ### Blogs and articles
 
+- [Using OPA with Pulumi CrossGuard](https://www.pulumi.com/blog/opa-support-for-crossguard/) - Authoring Pulumi CrossGuard Policy with OPA
 - [AWS CDK with OPA](https://aws.amazon.com/blogs/opensource/realize-policy-as-code-with-aws-cloud-development-kit-through-open-policy-agent/) - Realize Policy-as-Code with AWS Cloud Development Kit through Open Policy Agent
 
 ## Tools and utilities
