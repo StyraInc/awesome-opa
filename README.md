@@ -31,6 +31,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA](https://github.com/open-policy-agent/opa) - Open Policy Agent Github repository
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Kubernetes admission controller using OPA
 - [Conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data
+- [Library](https://github.com/open-policy-agent/library) - Community-owned policy library for the OPA
 
 ## Language & platform integrations
 
