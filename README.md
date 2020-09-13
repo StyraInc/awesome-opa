@@ -80,7 +80,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [IntelliJ plugin](https://github.com/vgramer/opa-idea-plugin) - OPA plugin for the IntelliJ IDE
 - [Emacs](https://github.com/psibi/rego-mode) - Emacs Major mode for working with Rego
 - [Vim](https://github.com/tsandall/vim-rego) - Vim plugin for the Rego language, with support for syntax highlighting
+- [Atom](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/atom) - Syntax highlighting for the Atom editor
 - [CodeMirror](https://github.com/StyraInc/codemirror-rego) - Rego mode and minimal key map for [CodeMirror](https://codemirror.net/)
+- [TextMate](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/textmate) - Syntax highlighting for TextMate
+- [Sublime](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/sublime) - Syntax highlighting for Sublime
 
 ## Infrastructure as code
 
