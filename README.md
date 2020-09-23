@@ -11,6 +11,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Official Projects](#official-projects)
   - [Repositories](#repositories)
   - [Docs](#docs)
+  - [Blogs and articles](#official-articles)
 - [Language integrations](#language-integrations)
   - [Java](#java)
   - [Python](#python)
@@ -24,6 +25,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Blogs and articles](#iac-articles)
 - [Tools and utilities](#tools-and-utilities)
 - [Support and community](#support-and-community)
+- [Recommended reading](#recommended-reading)
 
 ## Official projects
 
@@ -38,6 +40,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [OPA](https://www.openpolicyagent.org/docs/) - Official OPA documentation
 - [Conftest](https://www.conftest.dev/) - Conftest documentation
+
+### Blogs and articles
+
+- [OPA](https://blog.openpolicyagent.org/) - Official blog for the OPA project
 
 ## Language & platform integrations
 
@@ -112,3 +118,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/open-policy-agent) - Stack Overflow OPA section
 - [OPA Slack](https://openpolicyagent.slack.com) - Opem Policy Agent Slack workspace
 
+## Recommended reading
+
+- [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
