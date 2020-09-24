@@ -39,6 +39,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Docs
 
 - [OPA](https://www.openpolicyagent.org/docs/) - Official OPA documentation
+- [Styra Academy](https://academy.styra.com/) - Excellent OPA training courses
 - [Conftest](https://www.conftest.dev/) - Conftest documentation
 
 ### Blogs and articles
