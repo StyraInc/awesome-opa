@@ -106,6 +106,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [Regula](https://github.com/fugue/regula) - Evaluates Terraform code for potential security misconfigurations and compliance violations.
 - [Example Terraform policies](https://github.com/Scalr/sample-tf-opa-policies) - Example Terraform policies
+- [Terrascan](https://github.com/accurics/terrascan) - [500+ Policies](https://github.com/accurics/terrascan/tree/master/pkg/policies/opa/rego) written in OPA for security best practices. 
 
 ### Blogs and articles
 
