@@ -17,6 +17,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Python](#python)
   - [PHP](#php)
   - [.NET](#.net)
+  - [Node.js](#nodejs)
   - [Docker](#docker)
 - [Kubernetes](#kubernetes)
   - [Blogs and articles](#kubernetes-articles)
@@ -67,6 +68,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### .NET
 
 - [ASP.NET Core](https://github.com/build-security/OPA-AspDotNetCore-Middleware) - ASP.NET Core authorization middleware
+
+### Node.js
+
+- [OPA Express](https://github.com/build-security/opa-express-middleware) - OPA client for the Express framework
 
 ### Docker
 
