@@ -16,6 +16,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Java](#java)
   - [Python](#python)
   - [PHP](#php)
+  - [.NET](#.net)
   - [Docker](#docker)
 - [Kubernetes](#kubernetes)
   - [Blogs and articles](#kubernetes-articles)
@@ -62,6 +63,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### PHP
 
 - [OPA Library for PHP](https://github.com/segrax/openpolicyagent) - OPA client, a PSR-15 authorization middleware and a PSR-15 bundle distributor middleware
+
+### .NET
+
+- [ASP.NET Core](https://github.com/build-security/OPA-AspDotNetCore-Middleware) - ASP.NET Core authorization middleware
 
 ### Docker
 
