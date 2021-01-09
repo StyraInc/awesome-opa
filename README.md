@@ -4,8 +4,6 @@
 
 A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy Agent (OPA) related tools, frameworks and articles.
 
-**WORK IN PROGRESS**
-
 ## Contents
 
 - [Official Projects](#official-projects)
@@ -18,6 +16,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [PHP](#php)
   - [.NET](#.net)
   - [Node.js](#nodejs)
+  - [Clojure](#clojure)  
   - [Docker](#docker)
 - [Kubernetes](#kubernetes)
   - [Blogs and articles](#kubernetes-articles)
@@ -72,6 +71,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Node.js
 
 - [OPA Express](https://github.com/build-security/opa-express-middleware) - OPA client for the Express framework
+
+### Clojure
+
+- [Clojure](https://github.com/anderseknert/clj-opa) - Middleware and utilities for app authorization with OPA in Clojure
 
 ### Docker
 
