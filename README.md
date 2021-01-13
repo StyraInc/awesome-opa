@@ -16,7 +16,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [PHP](#php)
   - [.NET](#.net)
   - [Node.js](#nodejs)
-  - [Clojure](#clojure)  
+  - [Clojure](#clojure)
   - [Docker](#docker)
 - [Kubernetes](#kubernetes)
   - [Blogs and articles](#kubernetes-articles)
@@ -108,13 +108,14 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ## IDE and editor integrations
 
 - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=tsandall.opa) - Develop, test, debug, and analyze policies for OPA in VS Code
-- [IntelliJ plugin](https://github.com/vgramer/opa-idea-plugin) - OPA plugin for the IntelliJ IDE
+- [IntelliJ plugin](https://github.com/open-policy-agent/opa-idea-plugin) - OPA plugin for the IntelliJ IDE
 - [Emacs](https://github.com/psibi/rego-mode) - Emacs Major mode for working with Rego
 - [Vim](https://github.com/tsandall/vim-rego) - Vim plugin for the Rego language, with support for syntax highlighting
 - [Atom](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/atom) - Syntax highlighting for the Atom editor
 - [CodeMirror](https://github.com/StyraInc/codemirror-rego) - Rego mode and minimal key map for [CodeMirror](https://codemirror.net/)
 - [TextMate](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/textmate) - Syntax highlighting for TextMate
 - [Sublime](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/sublime) - Syntax highlighting for Sublime
+- [Nano](https://github.com/scopatz/nanorc) - Syntax highlighting for Nano
 
 ## Infrastructure as code
 
