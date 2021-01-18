@@ -14,7 +14,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Java](#java)
   - [Python](#python)
   - [PHP](#php)
-  - [.NET](#.net)
+  - [.NET](#net)
   - [Node.js](#nodejs)
   - [Clojure](#clojure)
   - [Docker](#docker)
