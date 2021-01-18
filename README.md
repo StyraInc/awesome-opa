@@ -18,6 +18,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Node.js](#nodejs)
   - [Clojure](#clojure)
   - [Docker](#docker)
+- [WebAssembly-Compiled OPA Policies](webassembly-compiled-opa-policies)
 - [Kubernetes](#kubernetes)
   - [Blogs and articles](#kubernetes-articles)
 - [Datasource integrations](#datasource-integrations)
@@ -81,6 +82,13 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA Docker authorization](https://github.com/open-policy-agent/opa-docker-authz) - OPA to help policy-enable an existing services
 - [Docker Security Checker](https://github.com/madhuakula/docker-security-checker) - OPA Rego policies for Dockerfile Security checks using Conftest ([blog](https://blog.madhuakula.com/dockerfile-security-checks-using-opa-rego-policies-with-conftest-32ab2316172f))
 - [Dockerfile security](https://github.com/gbrindisi/dockerfile-security) - A collection of OPA rules to statically analyze Dockerfiles to improve security
+
+## WebAssembly-Compiled OPA Policies
+
+- [Documentation](https://www.openpolicyagent.org/docs/latest/wasm/)
+- [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly (wasm) compiled Open Policy Agent Rego policies
+- [Go SDK](https://github.com/open-policy-agent/golang-opa-wasm) - a small Go library for using WebAssembly (wasm) compiled Open Policy Agent Rego policies
+- [.NET Core Library](https://github.com/christophwille/csharp-opa-wasm) - .NET SDK for calling WASM-compiled OPA policies from .NET Core
 
 ## Kubernetes
 
