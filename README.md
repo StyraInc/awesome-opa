@@ -19,7 +19,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Node.js](#nodejs)
   - [Clojure](#clojure)
   - [Docker](#docker)
-- [WebAssembly (WASM)](webassembly-wasm)
+- [WebAssembly (WASM)](#webassembly-wasm)
 - [Kubernetes](#kubernetes)
   - [Blogs and Articles](#kubernetes-articles)
 - [Datasource Integrations](#datasource-integrations)
