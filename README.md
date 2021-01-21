@@ -25,7 +25,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Datasource Integrations](#datasource-integrations)
 - [IDE and Editor Integrations](#ide-and-editor-integrations)
 - [Infrastructure as Code](#infrastructure-as-code)
-  - [Blogs and Articles](#iac-blogs-and-articles)
+  - [Blogs and Articles](#infrastructure-as-code-blogs-and-articles)
 - [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
@@ -140,7 +140,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Example Terraform policies](https://github.com/Scalr/sample-tf-opa-policies) - Example Terraform policies
 - [Terrascan](https://github.com/accurics/terrascan) - [500+ Policies](https://github.com/accurics/terrascan/tree/master/pkg/policies/opa/rego) written in OPA for security best practices.
 
-### Blogs and Articles
+### Infrastructure as Code Blogs and Articles
 
 - [Using OPA with Pulumi CrossGuard](https://www.pulumi.com/blog/opa-support-for-crossguard/) - Authoring Pulumi CrossGuard Policy with OPA
 - [AWS CDK with OPA](https://aws.amazon.com/blogs/opensource/realize-policy-as-code-with-aws-cloud-development-kit-through-open-policy-agent/) - Realize Policy-as-Code with AWS Cloud Development Kit through Open Policy Agent
