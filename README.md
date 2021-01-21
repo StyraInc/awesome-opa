@@ -25,7 +25,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Datasource Integrations](#datasource-integrations)
 - [IDE and Editor Integrations](#ide-and-editor-integrations)
 - [Infrastructure as Code](#infrastructure-as-code)
-  - [Blogs and Articles](#blogs-and-articles)
+  - [Blogs and Articles](#iac-blogs-and-articles)
 - [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
