@@ -161,4 +161,5 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Recommended Reading
 
+- [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) - Book on micorservices security, with dedicated section covering OPA. Freely available online.
 - [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
