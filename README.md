@@ -29,6 +29,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
+- [Commercial Tools](#commercial-tools)
 
 ## Official projects
 
@@ -166,7 +167,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) - Book on micorservices security, with dedicated section covering OPA. Freely available online.
 - [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
 
-## Commercial tools
+## Commercial Tools
 
 - [Styra DAS](https://www.styra.com/pricing) - Styra Declarative Authorization Service, from the creators of OPA
 - [Scalr](https://scalr.com/) - Collaboration and Automation for Terraform, backed by OPA
