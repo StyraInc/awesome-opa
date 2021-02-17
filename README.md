@@ -14,6 +14,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Language and Platform Integrations](#language-and-platform-integrations)
   - [Java](#java)
   - [Python](#python)
+  - [Go](#go)
   - [PHP](#php)
   - [.NET](#net)
   - [Node.js](#nodejs)
@@ -68,6 +69,11 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA Python client](https://github.com/Turall/OPA-python-client) - Python client for OPA's REST API
 - [Flask OPA](https://github.com/EliuX/flask-opa) - OPA client for the Flask microframework
 - [Rego Python](https://github.com/open-policy-agent/rego-python) - Python package for interacting with Rego
+
+### Go
+
+- [Go Example API Authorization](https://github.com/open-policy-agent/example-api-authz-go) - Example API authorization using OPA
+-
 
 ### PHP
 
