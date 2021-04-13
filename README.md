@@ -97,6 +97,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Docker Security Checker](https://github.com/madhuakula/docker-security-checker) - OPA Rego policies for Dockerfile Security checks using Conftest ([blog](https://blog.madhuakula.com/dockerfile-security-checks-using-opa-rego-policies-with-conftest-32ab2316172f))
 - [Dockerfile security](https://github.com/gbrindisi/dockerfile-security) - A collection of OPA rules to statically analyze Dockerfiles to improve security
 
+### Containers
+
+ - [Konveyor Forklift Validation Service](https://github.com/konveyor/forklift-validation) - VM migration suitability assessment to avoid migrating VMs that are not fit for Kubevirt. Rules are applied on all the VMs of the source provider (VMware) during the initial inventory collection, then whenever a VM configuration changes.
+
 ## WebAssembly (WASM)
 
 - [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly (wasm) compiled Open Policy Agent Rego policies
