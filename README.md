@@ -69,6 +69,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA Python client](https://github.com/Turall/OPA-python-client) - Python client for OPA's REST API
 - [Flask OPA](https://github.com/EliuX/flask-opa) - OPA client for the Flask microframework
 - [Rego Python](https://github.com/open-policy-agent/rego-python) - Python package for interacting with Rego
+- [Sphinx Rego](https://github.com/zenitysec/sphinx-rego) - Sphinx extension that automatically documents Rego policies
 
 ### Go
 
