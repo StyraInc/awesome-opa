@@ -75,7 +75,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Go
 
 - [Go Example API Authorization](https://github.com/open-policy-agent/example-api-authz-go) - Example API authorization using OPA
--
 
 ### PHP
 
