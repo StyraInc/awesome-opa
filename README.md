@@ -68,6 +68,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [OPA Python client](https://github.com/Turall/OPA-python-client) - Python client for OPA's REST API
 - [Flask OPA](https://github.com/EliuX/flask-opa) - OPA client for the Flask microframework
+- [Bottle Authorization](https://github.com/dolevf/bottle-acl-openpolicyagent) - Custom Bottle Application Authorization
 - [Rego Python](https://github.com/open-policy-agent/rego-python) - Python package for interacting with Rego
 - [Sphinx Rego](https://github.com/zenitysec/sphinx-rego) - Sphinx extension that automatically documents Rego policies
 
@@ -173,7 +174,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [Styra](https://www.styra.com/) - Commercial support, and tools for managing OPA at scale, by the creators of OPA
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/open-policy-agent) - Stack Overflow OPA section
-- [OPA Slack](https://openpolicyagent.slack.com) - Opem Policy Agent Slack workspace
+- [OPA Slack](https://openpolicyagent.slack.com) - Open Policy Agent Slack workspace
 
 ## Recommended Reading
 
