@@ -55,6 +55,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Library](https://github.com/open-policy-agent/library) - Community-owned policy library for OPA
 - [Policy Hub CLI](https://github.com/policy-hub/policy-hub-cli) - CLI tool that makes Rego policies searchable
 - [Rego policies](https://github.com/redhat-cop/rego-policies) - Rego policies from the the Red Hat community of practice
+- [Appshield](https://github.com/aquasecurity/appshield) - Open Database of rego policies for common Infrastructure as Code files.
 
 ## Language and Platform Integrations
 
@@ -154,6 +155,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Example Terraform policies](https://github.com/Scalr/sample-tf-opa-policies) - Example Terraform policies
 - [Terrascan](https://github.com/accurics/terrascan) - [500+ Policies](https://github.com/accurics/terrascan/tree/master/pkg/policies/opa/rego) written in OPA for security best practices.
 - [KICS](https://github.com/Checkmarx/kics) - Keeping Infrastructure as Code Secure or KICS scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+- [Trivy](https://github.com/aquasecurity/trivy) - Scan your code and artifacts for known vulnerabilities and misconfiguration issues.
 
 ### Infrastructure as Code Blogs and Articles
 
