@@ -20,7 +20,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Node.js](#nodejs)
   - [Clojure](#clojure)
   - [Docker](#docker)
-- [WebAssembly (WASM)](#webassembly-wasm)
+- [WebAssembly (Wasm)](#webassembly-wasm)
 - [Kubernetes](#kubernetes)
   - [Blogs and Articles](#blogs-and-articles)
 - [Datasource Integrations](#datasource-integrations)
@@ -103,15 +103,16 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
  - [Konveyor Forklift Validation Service](https://github.com/konveyor/forklift-validation) - VM migration suitability assessment to avoid migrating VMs that are not fit for Kubevirt. Rules are applied on all the VMs of the source provider (VMware) during the initial inventory collection, then whenever a VM configuration changes.
 
-## WebAssembly (WASM)
+## WebAssembly (Wasm)
 
-- [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly (wasm) compiled Open Policy Agent Rego policies
-- [Go SDK](https://github.com/open-policy-agent/golang-opa-wasm) - a small Go library for using WebAssembly (wasm) compiled Open Policy Agent Rego policies
-- [.NET Core Library](https://github.com/christophwille/csharp-opa-wasm) - .NET SDK for calling WASM-compiled OPA policies from .NET Core
+- [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly compiled Open Policy Agent Rego policies
+- [.NET Core Library](https://github.com/christophwille/csharp-opa-wasm) - .NET SDK for calling Wasm-compiled OPA policies from .NET Core
+- [Python Library](https://github.com/a2d24/python-opa-wasm) - Open Policy Agent WebAssembly SDK for Python
+- [Go SDK](https://github.com/open-policy-agent/golang-opa-wasm) - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
 
 ### Docs
 
-- [WASM](https://www.openpolicyagent.org/docs/latest/wasm/) - Official docs on WebAssembly for OPA
+- [Wasm](https://www.openpolicyagent.org/docs/latest/wasm/) - Official docs on WebAssembly for OPA
 
 ## Kubernetes
 
