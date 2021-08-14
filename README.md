@@ -124,6 +124,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Validating and Mutating Admission Control Example](https://github.com/tsandall/validating-and-mutating-example) - Example validating and mutation admission controller
 - [MagTape](https://github.com/tmobile/magtape) - OPA-based admission controller for policy enforcement
 - [Admission policy development](https://github.com/k8spin/opa-k8s-development) - OPA Kubernetes validation and mutation testing environment
+- [Gatekeeper Conftest plugin](https://github.com/clover/gatekeeper-conftest) - A Conftest plugin that transforms input objects to be compatible with OPA Gatekeeper policies.
 
 ### Blogs and Articles
 
@@ -173,6 +174,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Monitor OPA Gatekeeper](https://github.com/developer-guy/monitor-opa-gatekeeper) - Monitoring implementation guide for OPA Gatekeeper ([blog](https://sysdig.com/blog/monitor-gatekeeper-prometheus/))
 - [Temporal reasoning with OPA](https://github.com/mhausenblas/temporal-opa) - Examples for working with time in Rego
 - [OPAL](https://github.com/authorizon/opal) - Realtime policy and data updates for your OPA agents on top of websockets pub/sub
+- [OPA Action](https://github.com/koozz/opa-action) - OPA Pull-Request Assessor is a GitHub Action that checks files against policies configured in the same repo
 
 ## Support and Community
 
