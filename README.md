@@ -152,6 +152,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [TextMate](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/textmate) - Syntax highlighting for TextMate
 - [Sublime](https://github.com/open-policy-agent/opa/tree/master/misc/syntax/sublime) - Syntax highlighting for Sublime
 - [Nano](https://github.com/scopatz/nanorc) - Syntax highlighting for Nano
+- [Prism](https://prismjs.com/) - Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind (supports Rego)
 
 ## Infrastructure as Code
 
