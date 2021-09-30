@@ -185,6 +185,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Styra](https://www.styra.com/) - Commercial support, and tools for managing OPA at scale, by the creators of OPA
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/open-policy-agent) - Stack Overflow OPA section
 - [OPA Slack](https://openpolicyagent.slack.com) - Open Policy Agent Slack workspace
+- [GitHub Discussions](https://github.com/open-policy-agent/feedback/discussions) - Open Policy Agent Discussion Board
 
 ## Recommended Reading
 
