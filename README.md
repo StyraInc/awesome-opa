@@ -49,6 +49,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Blogs and Articles
 
 - [OPA](https://blog.openpolicyagent.org/) - Official blog for the OPA project
+- [Logo](https://cncf-branding.netlify.app/projects/opa/) - The OPA Logo in different versions
 
 ## Policy Packages
 
@@ -119,7 +120,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Built with Wasm
 
-- [OPA wasm demo](https://opa-wasm.glitch.me/) - Demonstration of evaluating OPA's Wasm modules in the browser
+- [OPA Wasm demo](https://opa-wasm.glitch.me/) - Demonstration of evaluating OPA's Wasm modules in the browser
 
 ## Kubernetes
 
