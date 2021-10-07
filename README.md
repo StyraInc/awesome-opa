@@ -117,6 +117,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [Wasm](https://www.openpolicyagent.org/docs/latest/wasm/) - Official docs on WebAssembly for OPA
 
+### Built with Wasm
+
+- [OPA wasm demo](https://opa-wasm.glitch.me/) - Demonstration of evaluating OPA's Wasm modules in the browser
+
 ## Kubernetes
 
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
