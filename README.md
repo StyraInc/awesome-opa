@@ -121,6 +121,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Built with Wasm
 
 - [OPA Wasm demo](https://opa-wasm.glitch.me/) - Demonstration of evaluating OPA's Wasm modules in the browser
+- [Snyk CLI](https://github.com/snyk/snyk) - Test Infrastructure as Code source code for security misconfigurations and best practices in the local console.
 
 ## Kubernetes
 
@@ -168,6 +169,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Terrascan](https://github.com/accurics/terrascan) - [500+ Policies](https://github.com/accurics/terrascan/tree/master/pkg/policies/opa/rego) written in OPA for security best practices.
 - [KICS](https://github.com/Checkmarx/kics) - Keeping Infrastructure as Code Secure or KICS scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Trivy](https://github.com/aquasecurity/trivy) - Scan your code and artifacts for known vulnerabilities and misconfiguration issues.
+- [Snyk IaC](https://snyk.io/product/infrastructure-as-code-security/) - Test Infrastructure as Code source code repositories for security misconfigurations and best practices.
 
 ### Infrastructure as Code Blogs and Articles
 
@@ -184,6 +186,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPAL](https://github.com/authorizon/opal) - Realtime policy and data updates for your OPA agents on top of websockets pub/sub
 - [OPA Action](https://github.com/koozz/opa-action) - OPA Pull-Request Assessor is a GitHub Action that checks files against policies configured in the same repo
 - [OPA Schema Examples](https://github.com/aavarghese/opa-schema-examples) - Examples of extending the OPA type checker with JSON [schemas](https://www.openpolicyagent.org/docs/latest/schemas/)
+- [Snyk IaC Rules](https://github.com/snyk/snyk-iac-rules) - Build custom WASM bundles for evaluation of Rego rules against IaC source code. 
 
 ## Support and Community
 
