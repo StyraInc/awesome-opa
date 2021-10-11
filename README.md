@@ -27,6 +27,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [IDE and Editor Integrations](#ide-and-editor-integrations)
 - [Infrastructure as Code](#infrastructure-as-code)
   - [Blogs and Articles](#infrastructure-as-code-blogs-and-articles)
+- [Serverless](#serverless)
+  - [Blogs and Articles](#serverless-blogs-and-articles)
 - [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
@@ -174,6 +176,14 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Using OPA with Pulumi CrossGuard](https://www.pulumi.com/blog/opa-support-for-crossguard/) - Authoring Pulumi CrossGuard Policy with OPA
 - [AWS CDK with OPA](https://aws.amazon.com/blogs/opensource/realize-policy-as-code-with-aws-cloud-development-kit-through-open-policy-agent/) - Realize Policy-as-Code with AWS Cloud Development Kit through Open Policy Agent
 - [Kubernetes Authorization](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) - Kubernetes Authorization via Open Policy Agent
+
+## Serverless
+
+- [OPA Lambda Extension Plugin](https://github.com/godaddy/opa-lambda-extension-plugin) - A custom plugin for running OPA in AWS Lambda as a Lambda Extension
+
+### Serverless Blogs and Articles
+
+- [Serverless Policy Enforcement](https://blog.openpolicyagent.org/serverless-policy-enforcement-connecting-opa-and-aws-lambda-e624f7176a3) - Connecting OPA and AWS Lambda
 
 ## Tools and Utilities
 
