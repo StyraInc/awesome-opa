@@ -183,7 +183,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Serverless Blogs and Articles
 
-- [Serverless Policy Enforcement](https://blog.openpolicyagent.org/serverless-policy-enforcement-connecting-opa-and-aws-lambda-e624f7176a3) - Connecting OPA and AWS Lambda
+- [Serverless Policy Enforcement](https://blog.openpolicyagent.org/serverless-policy-enforcement-connecting-opa-and-aws-lambda-e624f7176a3) - Connecting Open Policy Agent and AWS Lambda
+- [Lambda Authorizer](https://aws.amazon.com/blogs/opensource/creating-a-custom-lambda-authorizer-using-open-policy-agent/) - Creating a custom Lambda authorizer using Open Policy Agent
 
 ## Tools and Utilities
 
