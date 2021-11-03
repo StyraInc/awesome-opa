@@ -192,7 +192,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Fregot](https://github.com/fugue/fregot) - Alternative REPL implementation for Rego
 - [OPA pre-commit](https://github.com/anderseknert/pre-commit-opa) - Pre-commit hooks for OPA/Rego/Conftest development
 - [Monitor OPA Gatekeeper](https://github.com/developer-guy/monitor-opa-gatekeeper) - Monitoring implementation guide for OPA Gatekeeper ([blog](https://sysdig.com/blog/monitor-gatekeeper-prometheus/))
-- [OpenAPI to Rego](https://github.com/ashutosh-narkar/openapi-to-rego) - OpenAPI To Rego code generator allows for generation of Rego code given an OpenAPI 3.0 Specification
+- [OpenAPI to Rego](https://github.com/ashutosh-narkar/openapi-to-rego) - Generate Rego code given an OpenAPI 3.0 Specification
 - [Temporal reasoning with OPA](https://github.com/mhausenblas/temporal-opa) - Examples for working with time in Rego
 - [OPAL](https://github.com/authorizon/opal) - Realtime policy and data updates for your OPA agents on top of websockets pub/sub
 - [OPA Action](https://github.com/koozz/opa-action) - OPA Pull-Request Assessor is a GitHub Action that checks files against policies configured in the same repo
