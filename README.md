@@ -24,6 +24,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Kubernetes](#kubernetes)
   - [Blogs and Articles](#blogs-and-articles)
 - [Datasource Integrations](#datasource-integrations)
+  - [Blogs and Articles](#datasource-integrations-blogs-and-articles)
 - [IDE and Editor Integrations](#ide-and-editor-integrations)
 - [Infrastructure as Code](#infrastructure-as-code)
   - [Blogs and Articles](#infrastructure-as-code-blogs-and-articles)
@@ -150,6 +151,11 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Data Filtering on Spring Data](https://github.com/jferrater/opa-data-filter-spring-boot-starter) - Data filtering for MongoDB and JPA using OPA
 - [Elasticsearch](https://github.com/open-policy-agent/contrib/tree/master/data_filter_elasticsearch) - OPA-Elasticsearch Data Filtering Example
 - [Strimzi](https://strimzi.io/) - Kafka in kubernetes, with built-in support for OPA as authorizer
+- [Google Calendar](https://github.com/anderseknert/opa-google-calendar) - Integrating OPA with the Google Calendar API
+
+### Datasource Integrations Blogs and Articles
+
+- [Google Calendar Integration](https://blog.styra.com/blog/the-power-of-data-calendar-based-policy-enforcement) - The Power of Data: Calendar-based Policy Enforcement
 
 ## IDE and Editor Integrations
 
