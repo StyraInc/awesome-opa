@@ -136,6 +136,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [MagTape](https://github.com/tmobile/magtape) - OPA-based admission controller for policy enforcement
 - [Admission policy development](https://github.com/k8spin/opa-k8s-development) - OPA Kubernetes validation and mutation testing environment
 - [Gatekeeper Conftest plugin](https://github.com/clover/gatekeeper-conftest) - A Conftest plugin that transforms input objects to be compatible with OPA Gatekeeper policies.
+- [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
 
 ### Blogs and Articles
 
@@ -144,6 +145,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA and Gatekeeper](https://www.infracloud.io/blogs/opa-and-gatekeeper/) - Comparison between OPA and Gatekeeper with lots of useful information
 - [Kubernetes Authorization](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) - Guide on using OPA for Kubernetes authorization
 - [Gatekeeper in a CI/CD pipeline](https://arapulido.github.io/blog/2021/08/02/testing-your-kubernetes-config-against-policy-ci/) - Guide on how to setup your CI environment to test your Kubernetes configuration against your policy in a CI environment as part of a GitOps strategy
+- [Verifying container signatures on Kubernetes with Gatekeeper](https://medium.com/@LachlanEvenson/verifying-container-signatures-on-kubernetes-with-gatekeeper-19a4519c3016) - Verifying container signatures on Kubernetes with Gatekeeper
 
 ## Datasource Integrations
 
