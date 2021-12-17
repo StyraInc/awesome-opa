@@ -68,6 +68,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [Java](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
 - [Spring Security](https://github.com/Bisnode/opa-spring-security) - OPA Spring Security Library
+- [Spring Security Reactive](https://github.com/massenz/jwt-opa) - OPA with Spring Security Reactive
 - [Gradle](https://github.com/Bisnode/opa-gradle-plugin) - OPA plugin for Gradle
 - [Thunx](https://github.com/xenit-eu/thunx) - Thunx is a pluggable ABAC system using OPA, Spring Cloud Gateway and Spring Data REST
 
