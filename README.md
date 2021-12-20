@@ -59,8 +59,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Library](https://github.com/open-policy-agent/library) - Community-owned policy library for OPA
 - [Policy Hub CLI](https://github.com/policy-hub/policy-hub-cli) - CLI tool that makes Rego policies searchable
 - [Rego policies](https://github.com/redhat-cop/rego-policies) - Rego policies from the the Red Hat community of practice
-- [Appshield](https://github.com/aquasecurity/appshield) - Open Database of rego policies for common Infrastructure as Code files.
-- [Conftest policy packs](https://github.com/rallyhealth/conftest-policy-packs) - Collection of Conftest policies for "Compliance-as-Code" security policies and general engineering standards. Policies targeting Terraform, Dockerfiles, package.json (NodeJS) files, etc.
+- [Appshield](https://github.com/aquasecurity/appshield) - Open Database of rego policies for common Infrastructure as Code files
+- [Conftest policy packs](https://github.com/rallyhealth/conftest-policy-packs) - Collection of Conftest policies for "Compliance-as-Code" security policies and general engineering standards. Policies targeting Terraform, Dockerfiles, package.json (NodeJS) files, etc
+- [Confectionary](https://github.com/Cigna/confectionery) - A library of rules for Conftest used to detect Terraform misconfigurations.
 
 ## Language and Platform Integrations
 
