@@ -87,7 +87,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### PHP
 
-- [OPA Library for PHP](https://github.com/segrax/openpolicyagent) - OPA client, a PSR-15 authorization middleware and a PSR-15 bundle distributor middleware
+- [OPA Library for PHP](https://github.com/segrax/openpolicyagent) - OPA client, a PSR-15 authorization middleware and a PSR-15 bundle distribution middleware
 
 ### .NET
 
