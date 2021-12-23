@@ -208,7 +208,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPAL](https://github.com/authorizon/opal) - Realtime policy and data updates for your OPA agents on top of websockets pub/sub
 - [OPA Action](https://github.com/koozz/opa-action) - OPA Pull-Request Assessor is a GitHub Action that checks files against policies configured in the same repo
 - [OPA Schema Examples](https://github.com/aavarghese/opa-schema-examples) - Examples of extending the OPA type checker with JSON [schemas](https://www.openpolicyagent.org/docs/latest/schemas/)
-- [Snyk IaC Rules](https://github.com/snyk/snyk-iac-rules) - Maintain library of Rego rules, run integration tests and build WASM bundles for distrubtion of rules. The OPA libraries are used to build WASM bundles.
+- [Snyk IaC Rules](https://github.com/snyk/snyk-iac-rules) - Maintain library of Rego rules, run integration tests and build WASM bundles for distribution of rules. The OPA libraries are used to build WASM bundles.
 
 ## Support and Community
 
