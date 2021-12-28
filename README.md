@@ -22,6 +22,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Docker](#docker)
 - [WebAssembly (Wasm)](#webassembly-wasm)
 - [Kubernetes](#kubernetes)
+  - [Service Mesh Authorization](#service-mesh-authorization)
   - [Blogs and Articles](#blogs-and-articles)
 - [Datasource Integrations](#datasource-integrations)
   - [Blogs and Articles](#datasource-integrations-blogs-and-articles)
@@ -47,6 +48,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [OPA](https://www.openpolicyagent.org/docs/) - Official OPA documentation
 - [Styra Academy](https://academy.styra.com/) - Excellent OPA training courses
+- [Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/) - OPA Gatekeeper docs
 - [Conftest](https://www.conftest.dev/) - Conftest documentation
 
 ### Blogs and Articles
@@ -139,7 +141,14 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Admission policy development](https://github.com/k8spin/opa-k8s-development) - OPA Kubernetes validation and mutation testing environment
 - [Gatekeeper Conftest plugin](https://github.com/clover/gatekeeper-conftest) - A Conftest plugin that transforms input objects to be compatible with OPA Gatekeeper policies.
 - [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
-- [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary) 
+- [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary)
+
+### Service Mesh Authorization
+
+- [OPA Envoy Plugin](https://github.com/open-policy-agent/opa-envoy-plugin) - The OPA Envoy Plugin (compatible with Envoy, Istio, Gloo Edge, more)
+- [Open Service Mesh](https://release-v0-11.docs.openservicemesh.io/docs/guides/integrations/external_auth_opa/#osm-with-opa-plugin-external-authorization-walkthrough) - Envoy based service mesh using OPA for external authorization
+- [Kuma](https://konghq.com/videos/microservice-authorization-with-open-policy-agent-and-kuma/) - OPA for Kuma service mesh
+- [Kong Mesh](https://konghq.com/blog/kong-service-mesh-and-opa-policy/) - OPA for Kong Mesh authorization ([docs](https://docs.konghq.com/mesh/1.5.x/features/opa/))
 
 ### Blogs and Articles
 
