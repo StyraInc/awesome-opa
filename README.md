@@ -34,7 +34,11 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
+- [Twitter](#twitter)
+  - [Maintainers](#maintainers)
+  - [Community Stars](#community-stars)
 - [Commercial Tools](#commercial-tools)
+- [Contributing](#contributing)
 
 ## Official projects
 
@@ -158,6 +162,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Kubernetes Authorization](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) - Guide on using OPA for Kubernetes authorization
 - [Gatekeeper in a CI/CD pipeline](https://arapulido.github.io/blog/2021/08/02/testing-your-kubernetes-config-against-policy-ci/) - Guide on how to setup your CI environment to test your Kubernetes configuration against your policy in a CI environment as part of a GitOps strategy
 - [Verifying container signatures on Kubernetes with Gatekeeper](https://medium.com/@LachlanEvenson/verifying-container-signatures-on-kubernetes-with-gatekeeper-19a4519c3016) - Verifying container signatures on Kubernetes with Gatekeeper
+- [Gator CLI](https://medium.com/@LachlanEvenson/testing-gatekeeper-constraints-with-gator-cli-da31050a6564) - Testing Gatekeeper constraints with Gator CLI
 
 ## Datasource Integrations
 
@@ -233,9 +238,32 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
 - [Integration](https://snowplowanalytics.com/blog/2021/12/07/how-we-integrated-our-purely-functional-scala-backend-with-the-open-policy-agent/) - How we integrated our purely functional Scala backend with the Open Policy Agent
 
+## Twitter
+
+### Maintainers
+
+- [@OpenPolicyAgent](https://twitter.com/OpenPolicyAgent) - Official OPA account 🌎
+- [@sometorin](https://twitter.com/sometorin) - Torin Sandall 🇨🇦 - OPA technical lead
+- [@anderseknert](https://twitter.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate
+- [@peteroneilljr](https://twitter.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate
+- [@ritazzhang](https://twitter.com/ritazzhang) - Rita Zhang 🇺🇸 - Gatekeeper maintainer
+- [@sozercan](https://twitter.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer
+- [@johnpreese](https://twitter.com/johnpreese) - John Reese 🇺🇸 - Conftest maintainer
+
+### Community Stars
+
+- [@mizutani](https://twitter.com/mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate 
+- [@Hiroyuki_OSAKI](https://twitter.com/Hiroyuki_OSAKI) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor
+- [@developerguyba](https://twitter.com/developerguyba) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects
+- [@nmeisenzahl](https://twitter.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - Frequently tweets and talks about OPA and cloud native topics
+
 ## Commercial Tools
 
 - [Styra DAS](https://www.styra.com/pricing) - Styra Declarative Authorization Service, from the creators of OPA
 - [Scalr](https://scalr.com/) - Collaboration and Automation for Terraform, backed by OPA
 - [Fairwinds Insights](https://fairwinds.com/insights) - Run OPA policies consistently across CI/CD, Admission Control, and an multi-cluster scanner
 - [Snyk IaC](https://snyk.io/product/infrastructure-as-code-security/) - Test Infrastructure as Code source code repositories for security misconfigurations and best practices. The OPA golang libraries are used to evaluate Rego policies to detect misconfigurations in the repositories. 
+
+## Contributing
+
+Built a great OPA integration or wrote an interesting blog or article on the topic? Submit a PR!
