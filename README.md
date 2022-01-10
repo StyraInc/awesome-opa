@@ -255,7 +255,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Community Stars
 
-- [@mizutani](https://twitter.com/mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate 
+- [@m_mizutani](https://twitter.com/m_mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate 
 - [@Hiroyuki_OSAKI](https://twitter.com/Hiroyuki_OSAKI) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor
 - [@charlieegan3](https://twitter.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA contributor and active community member
 - [@developerguyba](https://twitter.com/developerguyba) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects
