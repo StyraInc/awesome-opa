@@ -243,7 +243,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Maintainers
 
 - [@OpenPolicyAgent](https://twitter.com/OpenPolicyAgent) - Official OPA account 🌎
-- [@sometorin](https://twitter.com/sometorin) - Torin Sandall 🇨🇦 - OPA technical lead
+- [@sometorin](https://twitter.com/sometorin) - Torin Sandall 🇨🇦 - OPA co-creator
 - [@tlhinrichs](https://twitter.com/tlhinrichs) - Tim Hinrichs 🇺🇸 - OPA co-creator
 - [@ashtalk](https://twitter.com/ashtalk) - Ash Narkar 🇺🇸 - OPA maintainer
 - [@johanfylling](https://twitter.com/johanfylling) - Johan Fylling 🇸🇪 - OPA maintainer
@@ -251,6 +251,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@peteroneilljr](https://twitter.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate
 - [@ritazzhang](https://twitter.com/ritazzhang) - Rita Zhang 🇺🇸 - Gatekeeper maintainer
 - [@sozercan](https://twitter.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer
+- [@willbeason](https://twitter.com/willbeason) - Will Beason 🇺🇸 - Gatekeeper maintainer
 - [@johnpreese](https://twitter.com/johnpreese) - John Reese 🇺🇸 - Conftest maintainer
 
 ### Community Stars
