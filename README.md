@@ -146,6 +146,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Gatekeeper Conftest plugin](https://github.com/clover/gatekeeper-conftest) - A Conftest plugin that transforms input objects to be compatible with OPA Gatekeeper policies.
 - [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
 - [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary)
+- [Kove](https://github.com/cmacrae/kove) - Watch your in-cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics
 
 ### Service Mesh Authorization
 
@@ -196,6 +197,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Terrascan](https://github.com/accurics/terrascan) - [500+ Policies](https://github.com/accurics/terrascan/tree/master/pkg/policies/opa/rego) written in OPA for security best practices.
 - [KICS](https://github.com/Checkmarx/kics) - Keeping Infrastructure as Code Secure or KICS scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Trivy](https://github.com/aquasecurity/trivy) - Scan your code and artifacts for known vulnerabilities and misconfiguration issues.
+- [Terraform OPA IBM](https://github.com/IBM-Cloud/terraform-opa-ibm) - Terraform policy library for IBM Cloud
 
 ### Infrastructure as Code Blogs and Articles
 
