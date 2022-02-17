@@ -158,6 +158,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Blogs and Articles
 
 - [Policy Enabled Kubernetes with OPA](https://www.capitalone.com/tech/software-engineering/policy-enabled-kubernetes-with-open-policy-agent/) - Guide on setting up OPA for kubernetes admission control
+- [Integrating OPA with Kubernetes](https://techblost.com/integrating-open-policy-agent-opa-with-kubernetes/) - Comprehensive introduction to OPA and Gatekeeper
 - [Using OPA on EKS](https://aws.amazon.com/blogs/opensource/using-open-policy-agent-on-amazon-eks/) - Using Open Policy Agent on Amazon EKS
 - [OPA and Gatekeeper](https://www.infracloud.io/blogs/opa-and-gatekeeper/) - Comparison between OPA and Gatekeeper with lots of useful information
 - [Kubernetes Authorization](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) - Guide on using OPA for Kubernetes authorization
