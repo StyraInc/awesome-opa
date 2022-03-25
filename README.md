@@ -229,6 +229,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA Schema Examples](https://github.com/aavarghese/opa-schema-examples) - Examples of extending the OPA type checker with JSON [schemas](https://www.openpolicyagent.org/docs/latest/schemas/)
 - [Snyk IaC Rules](https://github.com/snyk/snyk-iac-rules) - Maintain library of Rego rules, run integration tests and build WASM bundles for distribution of rules. The OPA libraries are used to build WASM bundles.
 - [kube-review](https://github.com/anderseknert/kube-review) - CLI tool to quickly create [AdmissionReview](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) requests from Kubernetes resources
+- [rego-test-assertions](https://github.com/anderseknert/rego-test-assertions) - Helper library for working with assertions in Rego unit tests
 
 ## Support and Community
 
@@ -262,7 +263,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Community Stars
 
-- [@m_mizutani](https://twitter.com/m_mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate 
+- [@m_mizutani](https://twitter.com/m_mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate
 - [@Hiroyuki_OSAKI](https://twitter.com/Hiroyuki_OSAKI) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor
 - [@charlieegan3](https://twitter.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA contributor and active community member
 - [@developerguyba](https://twitter.com/developerguyba) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects
@@ -274,7 +275,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Styra DAS](https://www.styra.com/pricing) - Styra Declarative Authorization Service, from the creators of OPA
 - [Scalr](https://scalr.com/) - Collaboration and Automation for Terraform, backed by OPA
 - [Fairwinds Insights](https://fairwinds.com/insights) - Run OPA policies consistently across CI/CD, Admission Control, and an multi-cluster scanner
-- [Snyk IaC](https://snyk.io/product/infrastructure-as-code-security/) - Test Infrastructure as Code source code repositories for security misconfigurations and best practices. The OPA golang libraries are used to evaluate Rego policies to detect misconfigurations in the repositories. 
+- [Snyk IaC](https://snyk.io/product/infrastructure-as-code-security/) - Test Infrastructure as Code source code repositories for security misconfigurations and best practices. The OPA golang libraries are used to evaluate Rego policies to detect misconfigurations in the repositories.
 - [Spacelift](https://spacelift.io/): Flexible management platform for Infrastructure as Code, backed by OPA
 
 ## Contributing
