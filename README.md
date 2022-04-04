@@ -194,6 +194,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Infrastructure as Code
 
+- [OPA AWS CloudFormation Hook](https://github.com/StyraInc/opa-aws-cloudformation-hook) - AWS CloudFormation Hook calling OPA for policy decisions. See also [tutorial](https://www.openpolicyagent.org/docs/latest/aws-cloudformation-hooks/).
 - [Infracost](https://github.com/infracost/infracost/) - Infracost generates cloud cost estimates for Terraform and integrates with OPA, it can be used to write [cost policies](https://www.infracost.io/docs/features/cost_policies/)
 - [Regula](https://github.com/fugue/regula) - Evaluates Terraform code for potential security misconfigurations and compliance violations.
 - [Example Terraform policies](https://github.com/Scalr/sample-tf-opa-policies) - Example Terraform policies
