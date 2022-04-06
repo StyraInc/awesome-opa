@@ -147,6 +147,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
 - [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary)
 - [Kove](https://github.com/cmacrae/kove) - Watch your in-cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics
+- [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing GKE clusters against best practices 
 
 ### Service Mesh Authorization
 
