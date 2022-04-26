@@ -279,6 +279,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Fairwinds Insights](https://fairwinds.com/insights) - Run OPA policies consistently across CI/CD, Admission Control, and an multi-cluster scanner
 - [Snyk IaC](https://snyk.io/product/infrastructure-as-code-security/) - Test Infrastructure as Code source code repositories for security misconfigurations and best practices. The OPA golang libraries are used to evaluate Rego policies to detect misconfigurations in the repositories.
 - [Spacelift](https://spacelift.io/): Flexible management platform for Infrastructure as Code, backed by OPA
+- [env0](https://www.env0.com): Infrastructure as Code automation platform, with OPA extensibility.
 
 ## Contributing
 
