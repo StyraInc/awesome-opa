@@ -31,6 +31,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Blogs and Articles](#infrastructure-as-code-blogs-and-articles)
 - [Serverless](#serverless)
   - [Blogs and Articles](#serverless-blogs-and-articles)
+- [Testing](#testing)
+- [Other Usecases](#other-usecases)
 - [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
@@ -147,7 +149,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
 - [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary)
 - [Kove](https://github.com/cmacrae/kove) - Watch your in-cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics
-- [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing GKE clusters against best practices 
+- [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing GKE clusters against best practices
 
 ### Service Mesh Authorization
 
@@ -219,8 +221,19 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Serverless Policy Enforcement](https://blog.openpolicyagent.org/serverless-policy-enforcement-connecting-opa-and-aws-lambda-e624f7176a3) - Connecting Open Policy Agent and AWS Lambda
 - [Lambda Authorizer](https://aws.amazon.com/blogs/opensource/creating-a-custom-lambda-authorizer-using-open-policy-agent/) - Creating a custom Lambda authorizer using Open Policy Agent
 
+## Testing
+
+- [rego-test-assertions](https://github.com/anderseknert/rego-test-assertions) - Helper library for working with assertions in Rego unit tests
+- [kube-review](https://github.com/anderseknert/kube-review) - CLI tool to quickly create [AdmissionReview](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) requests from Kubernetes resources
+- [gator CLI](https://open-policy-agent.github.io/gatekeeper/website/docs/gator/) - Command line unit test runner for OPA Gatekeeper
+
+## Other Usecases
+
+- [SansShell](https://github.com/Snowflake-Labs/sansshell) - A non-interactive daemon for host management, where any action is authorized by OPA
+
 ## Tools and Utilities
 
+- [setup-opa](https://github.com/open-policy-agent/setup-opa) - GitHub action to configure the Open Policy Agent CLI in your GitHub Actions workflows
 - [Fregot](https://github.com/fugue/fregot) - Alternative REPL implementation for Rego
 - [OPA pre-commit](https://github.com/anderseknert/pre-commit-opa) - Pre-commit hooks for OPA/Rego/Conftest development
 - [Monitor OPA Gatekeeper](https://github.com/developer-guy/monitor-opa-gatekeeper) - Monitoring implementation guide for OPA Gatekeeper ([blog](https://sysdig.com/blog/monitor-gatekeeper-prometheus/))
@@ -230,8 +243,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPA Action](https://github.com/koozz/opa-action) - OPA Pull-Request Assessor is a GitHub Action that checks files against policies configured in the same repo
 - [OPA Schema Examples](https://github.com/aavarghese/opa-schema-examples) - Examples of extending the OPA type checker with JSON [schemas](https://www.openpolicyagent.org/docs/latest/schemas/)
 - [Snyk IaC Rules](https://github.com/snyk/snyk-iac-rules) - Maintain library of Rego rules, run integration tests and build WASM bundles for distribution of rules. The OPA libraries are used to build WASM bundles.
-- [kube-review](https://github.com/anderseknert/kube-review) - CLI tool to quickly create [AdmissionReview](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) requests from Kubernetes resources
-- [rego-test-assertions](https://github.com/anderseknert/rego-test-assertions) - Helper library for working with assertions in Rego unit tests
 
 ## Support and Community
 
