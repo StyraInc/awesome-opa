@@ -56,6 +56,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Styra Academy](https://academy.styra.com/) - Excellent OPA training courses
 - [Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/) - OPA Gatekeeper docs
 - [Conftest](https://www.conftest.dev/) - Conftest documentation
+- [Rego Style Guide](https://github.com/StyraInc/rego-style-guide) - Style guide for Rego, providing pointers on best practices for policy authoring
 
 ### Blogs and Articles
 
