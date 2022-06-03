@@ -207,6 +207,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Trivy](https://github.com/aquasecurity/trivy) - Scan your code and artifacts for known vulnerabilities and misconfiguration issues.
 - [Terraform OPA IBM](https://github.com/IBM-Cloud/terraform-opa-ibm) - Terraform policy library for IBM Cloud
 - [GCP policy guardrails for Terraform](https://github.com/GoogleCloudPlatform/policy-library/tree/main/validator) - Rego reference policy library for GCP controls (originally from forseti). Originally used by `terraform-validator` and now on `gcloud beta terraform vet`. More info at [Policy Validation](https://cloud.google.com/docs/terraform/policy-validation)
+- [Pulumi OPA Bridge for CrossGuard](https://github.com/pulumi/pulumi-policy-opa) - This project allows OPA rules to be run in the context of Pulumi's policy system, CrossGuard
 
 ### Infrastructure as Code Blogs and Articles
 
