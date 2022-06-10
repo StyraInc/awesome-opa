@@ -214,6 +214,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Using OPA with Pulumi CrossGuard](https://www.pulumi.com/blog/opa-support-for-crossguard/) - Authoring Pulumi CrossGuard Policy with OPA
 - [AWS CDK with OPA](https://aws.amazon.com/blogs/opensource/realize-policy-as-code-with-aws-cloud-development-kit-through-open-policy-agent/) - Realize Policy-as-Code with AWS Cloud Development Kit through Open Policy Agent
 - [Kubernetes Authorization](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) - Kubernetes Authorization via Open Policy Agent
+- [Using OPA with Spacelift](https://spacelift.io/blog/what-is-open-policy-agent-and-how-it-works) - Open Policy Agent: What Is OPA and How It Works (Examples)
 
 ## Serverless
 
