@@ -290,6 +290,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@developerguyba](https://twitter.com/developerguyba) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects
 - [@nmeisenzahl](https://twitter.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - Frequently tweets and talks about OPA and cloud native topics
 - [@jaspervdj-luminal](https://github.com/jaspervdj-luminal) - Jasper Van der Jeugt 🇨🇭 - OPA contributor
+- [@fredmaggiowski](https://github.com/fredmaggiowski) - Federico Maggi 🇮🇹 - Rönd maintainer 
 
 ## Commercial Tools
 
