@@ -169,6 +169,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Gatekeeper in a CI/CD pipeline](https://arapulido.github.io/blog/2021/08/02/testing-your-kubernetes-config-against-policy-ci/) - Guide on how to setup your CI environment to test your Kubernetes configuration against your policy in a CI environment as part of a GitOps strategy
 - [Verifying container signatures on Kubernetes with Gatekeeper](https://medium.com/@LachlanEvenson/verifying-container-signatures-on-kubernetes-with-gatekeeper-19a4519c3016) - Verifying container signatures on Kubernetes with Gatekeeper
 - [Gator CLI](https://medium.com/@LachlanEvenson/testing-gatekeeper-constraints-with-gator-cli-da31050a6564) - Testing Gatekeeper constraints with Gator CLI
+- [Kubernetes: An Enterprise Guide, 2nd Ed Chapter 8 - Extending Security with OpenPolicyAgent](https://youtu.be/_GQZ8Qahu48) - Walk through labs that show you how to build, debug, and deploy GateKeeper policies and mutations in your cluster.
+- [Kubernetes: An Enterprise Guide, 2nd Ed Chapter 9 - Node Security with GateKeeper](https://youtu.be/UrSvh74n24E) - Walk through labs that show the differences between VMs and containers with a breakout, creating `securityContext` defaults using mutations, replacing `PodSecurityPolicy` using GateKeeper, debuging audit violations, and policies for multi-tenant clusters.
 
 ## Datasource Integrations
 
