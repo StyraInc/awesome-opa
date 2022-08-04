@@ -278,6 +278,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@ashtalk](https://twitter.com/ashtalk) - Ash Narkar 🇺🇸 - OPA maintainer
 - [@johanfylling](https://twitter.com/johanfylling) - Johan Fylling 🇸🇪 - OPA maintainer
 - [@anderseknert](https://twitter.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate
+- [@philip_conrad](https://twitter.com/philip_conrad) - Philip Conrad 🇺🇸 - OPA maintainer
 - [@peteroneilljr](https://twitter.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate
 - [@ritazzhang](https://twitter.com/ritazzhang) - Rita Zhang 🇺🇸 - Gatekeeper maintainer
 - [@sozercan](https://twitter.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer
