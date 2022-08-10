@@ -139,7 +139,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Kubernetes
 
-- [Gatekeeper](http://gatekeeper.sh/) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes  
+- [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes  
 - [Gatekeeper Policy Library](https://www.github.com/open-policy-agent/gatekeeper-library) - A collection of constraint templates and sample constraints that you can use with Gatekeeper
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
