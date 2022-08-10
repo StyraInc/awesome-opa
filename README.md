@@ -174,7 +174,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Datasource Integrations
 
-- [Kafka Authorizer](https://github.com/anderseknert/opa-kafka-plugin) - Kafka authorizer plugin with example policies
+- [Kafka Authorizer](https://github.com/StyraInc/opa-kafka-plugin) - Kafka authorizer plugin using OPA, with example policies
 - [Data Filtering on Spring Data](https://github.com/jferrater/opa-data-filter-spring-boot-starter) - Data filtering for MongoDB and JPA using OPA
 - [Elasticsearch](https://github.com/open-policy-agent/contrib/tree/master/data_filter_elasticsearch) - OPA-Elasticsearch Data Filtering Example
 - [Strimzi](https://strimzi.io/) - Kafka in kubernetes, with built-in support for OPA as authorizer
