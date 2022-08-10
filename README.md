@@ -143,7 +143,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Gatekeeper Policy Library](https://www.github.com/open-policy-agent/gatekeeper-library) - A collection of constraint templates and sample constraints that you can use with Gatekeeper
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
-- [Redhat Rego Policies](https://github.com/redhat-cop/rego-policies) - Redhat Rego policies collection
+- [Red Hat Rego Policies](https://github.com/redhat-cop/rego-policies) - Red Hat Rego policies collection
 - [Gatekeeper Policy Manager](https://github.com/sighupio/gatekeeper-policy-manager) - Web UI for Gatekeeper policies
 - [Validating and Mutating Admission Control Example](https://github.com/tsandall/validating-and-mutating-example) - Example validating and mutation admission controller
 - [MagTape](https://github.com/tmobile/magtape) - OPA-based admission controller for policy enforcement
