@@ -174,7 +174,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Kubernetes: An Enterprise Guide, 2nd Ed Chapter 8 - Extending Security with OpenPolicyAgent](https://youtu.be/_GQZ8Qahu48) - Walk through labs that show you how to build, debug, and deploy GateKeeper policies and mutations in your cluster.
 - [Kubernetes: An Enterprise Guide, 2nd Ed Chapter 9 - Node Security with GateKeeper](https://youtu.be/UrSvh74n24E) - Walk through labs that show the differences between VMs and containers with a breakout, creating `securityContext` defaults using mutations, replacing `PodSecurityPolicy` using GateKeeper, debuging audit violations, and policies for multi-tenant clusters.
 - [OPA Gatekeeper: Policy and Governance for Kubernetes](https://kubernetes.io/blog/2019/08/06/opa-gatekeeper-policy-and-governance-for-kubernetes/) - Kubernetes blog post
--[Using OPA Gatekeeper on Azure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-for-kubernetes) - Azure Policy for Kubernetes clusters
+- [Using OPA Gatekeeper on Azure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-for-kubernetes) - Azure Policy for Kubernetes clusters
 
 ## Datasource Integrations
 
