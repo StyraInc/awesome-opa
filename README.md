@@ -139,9 +139,11 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Kubernetes
 
+- [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes  
+- [Gatekeeper Policy Library](https://www.github.com/open-policy-agent/gatekeeper-library) - A collection of constraint templates and sample constraints that you can use with Gatekeeper
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
-- [Rego Policies](https://github.com/redhat-cop/rego-policies) - Gatekeeper policies collection
+- [Red Hat Rego Policies](https://github.com/redhat-cop/rego-policies) - Red Hat Rego policies collection
 - [Gatekeeper Policy Manager](https://github.com/sighupio/gatekeeper-policy-manager) - Web UI for Gatekeeper policies
 - [Validating and Mutating Admission Control Example](https://github.com/tsandall/validating-and-mutating-example) - Example validating and mutation admission controller
 - [MagTape](https://github.com/tmobile/magtape) - OPA-based admission controller for policy enforcement
@@ -171,6 +173,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Gator CLI](https://medium.com/@LachlanEvenson/testing-gatekeeper-constraints-with-gator-cli-da31050a6564) - Testing Gatekeeper constraints with Gator CLI
 - [Kubernetes: An Enterprise Guide, 2nd Ed Chapter 8 - Extending Security with OpenPolicyAgent](https://youtu.be/_GQZ8Qahu48) - Walk through labs that show you how to build, debug, and deploy GateKeeper policies and mutations in your cluster.
 - [Kubernetes: An Enterprise Guide, 2nd Ed Chapter 9 - Node Security with GateKeeper](https://youtu.be/UrSvh74n24E) - Walk through labs that show the differences between VMs and containers with a breakout, creating `securityContext` defaults using mutations, replacing `PodSecurityPolicy` using GateKeeper, debuging audit violations, and policies for multi-tenant clusters.
+- [OPA Gatekeeper: Policy and Governance for Kubernetes](https://kubernetes.io/blog/2019/08/06/opa-gatekeeper-policy-and-governance-for-kubernetes/) - Kubernetes blog post
+- [Using OPA Gatekeeper on Azure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-for-kubernetes) - Azure Policy for Kubernetes clusters
 
 ## Datasource Integrations
 
