@@ -93,6 +93,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Go
 
 - [Go Example API Authorization](https://github.com/open-policy-agent/example-api-authz-go) - Example API authorization using OPA
+- [Fiber OPA Integration](https://github.com/gofiber/contrib/tree/main/opafiber) - OPA integration for Fiber web framework. Enables to execute Rego policies in the middlewares.
 
 ### PHP
 
