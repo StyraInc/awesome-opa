@@ -239,6 +239,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [rego-test-assertions](https://github.com/anderseknert/rego-test-assertions) - Helper library for working with assertions in Rego unit tests
 - [kube-review](https://github.com/anderseknert/kube-review) - CLI tool to quickly create [AdmissionReview](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) requests from Kubernetes resources
 - [gator CLI](https://open-policy-agent.github.io/gatekeeper/website/docs/gator/) - Command line unit test runner for OPA Gatekeeper
+- [ocov](https://github.com/C5T/ocov) - Colors `opa test --coverage` reports in the terminal.
 
 ## Other Usecases
 
