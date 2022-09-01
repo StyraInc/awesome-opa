@@ -141,7 +141,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Kubernetes
 
-- [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes  
+- [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes
 - [Gatekeeper Policy Library](https://www.github.com/open-policy-agent/gatekeeper-library) - A collection of constraint templates and sample constraints that you can use with Gatekeeper
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
@@ -181,6 +181,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ## Datasource Integrations
 
 - [Kafka Authorizer](https://github.com/StyraInc/opa-kafka-plugin) - Kafka authorizer plugin using OPA, with example policies
+- [OPA Single Message Transformer](https://github.com/opencredo/opa-single-message-transformer) - Single Message Transformer for Kafka. Uses OPA to choose which records to filter out based on policy.
 - [Data Filtering on Spring Data](https://github.com/jferrater/opa-data-filter-spring-boot-starter) - Data filtering for MongoDB and JPA using OPA
 - [Elasticsearch](https://github.com/open-policy-agent/contrib/tree/master/data_filter_elasticsearch) - OPA-Elasticsearch Data Filtering Example
 - [Strimzi](https://strimzi.io/) - Kafka in kubernetes, with built-in support for OPA as authorizer
@@ -190,6 +191,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Datasource Integrations Blogs and Articles
 
 - [Google Calendar Integration](https://blog.styra.com/blog/the-power-of-data-calendar-based-policy-enforcement) - The Power of Data: Calendar-based Policy Enforcement
+- [Apache Kafka](https://opencredo.com/blogs/controlling-kafka-data-flows-using-open-policy-agent/) - Controlling Kafka Data Flows using Open Policy Agent
 
 ## IDE and Editor Integrations
 
@@ -274,6 +276,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) - Book on micorservices security, with dedicated section covering OPA. Freely available online.
 - [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
 - [Integration](https://snowplowanalytics.com/blog/2021/12/07/how-we-integrated-our-purely-functional-scala-backend-with-the-open-policy-agent/) - How we integrated our purely functional Scala backend with the Open Policy Agent
+- [Integration](https://medium.com/@nikman/control-user-access-and-permissions-in-cvat-with-open-policy-agent-a2abbd09774d) - Control User Access and Permissions in CVAT with Open Policy Agent
 
 ## Twitter
 
