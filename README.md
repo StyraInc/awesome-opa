@@ -262,6 +262,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [opactl](https://github.com/onelittlenightmusic/opactl) - A simple tool to turn your Rego rule into CLI command ([blog](https://itnext.io/implement-a-policy-and-use-it-in-cli-de906237c6ab))
 - [alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - A self-hosted OPA Playground Alternative
 - [Rönd](https://github.com/rond-authz/rond) - Rönd is a lightweight container that distributes security policy enforcement throughout your application
+- [rq (Rego Query)](https://git.sr.ht/~charles/rq) - jq-inspired tool to bring Rego to your shell pipelines
 
 ## Support and Community
 
