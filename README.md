@@ -76,7 +76,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Java
 
-- [Java](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
+- [Jarl](https://github.com/johanfylling/jarl) - Native evaluation of Rego in the JVM, via OPA's IR format ([blog](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d))
+- [OPA Java Client](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
 - [Spring Security](https://github.com/Bisnode/opa-spring-security) - OPA Spring Security Library
 - [Spring Security Reactive](https://github.com/massenz/jwt-opa) - OPA with Spring Security Reactive
 - [Gradle](https://github.com/Bisnode/opa-gradle-plugin) - OPA plugin for Gradle
@@ -110,7 +111,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Clojure
 
-- [Clojure](https://github.com/anderseknert/clj-opa) - Middleware and utilities for app authorization with OPA in Clojure
+
+- [Jarl](https://github.com/johanfylling/jarl) - Native evaluation of Rego in the JVM (written in Clojure), via OPA's IR format ([blog](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d))
+- [clj-opa](https://github.com/anderseknert/clj-opa) - Middleware and utilities for app authorization with OPA in Clojure
 
 ### Docker
 
