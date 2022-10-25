@@ -132,6 +132,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Python Library](https://github.com/a2d24/python-opa-wasm) - Open Policy Agent WebAssembly SDK for Python
 - [Go SDK](https://github.com/open-policy-agent/opa/tree/main/internal/wasm/sdk) - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
 - [JVM](https://github.com/sangkeon/java-opa-wasm) - Java SDK for calling Wasm-compiled policies. Uses wasmtime.
+- [Rust](https://github.com/matrix-org/rust-opa-wasm) - A crate to use OPA policies compiled to Wasm
 
 ### Docs
 
