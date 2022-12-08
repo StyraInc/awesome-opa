@@ -261,7 +261,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Tools and Utilities
 
-- [setup-opa](https://github.com/open-policy-agent/setup-opa) - GitHub action to configure the Open Policy Agent CLI in your GitHub Actions workflows
+- [setup-opa](https://github.com/open-policy-agent/setup-opa) - GitHub action to configure the Open Policy Agent CLI in your GitHub Actions workflows
 - [Fregot](https://github.com/fugue/fregot) - Alternative REPL implementation for Rego
 - [OPA pre-commit](https://github.com/anderseknert/pre-commit-opa) - Pre-commit hooks for OPA/Rego/Conftest development
 - [Monitor OPA Gatekeeper](https://github.com/developer-guy/monitor-opa-gatekeeper) - Monitoring implementation guide for OPA Gatekeeper ([blog](https://sysdig.com/blog/monitor-gatekeeper-prometheus/))
