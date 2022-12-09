@@ -32,9 +32,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Serverless](#serverless)
   - [Blogs and Articles](#serverless-blogs-and-articles)
 - [Testing](#testing)
+- [Tools and Utilities](#tools-and-utilities)
 - [Other Usecases](#other-usecases)
 - [Fun and Quirky](#fun-and-quirky)
-- [Tools and Utilities](#tools-and-utilities)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
 - [Twitter](#twitter)
@@ -248,17 +248,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [gator CLI](https://open-policy-agent.github.io/gatekeeper/website/docs/gator/) - Command line unit test runner for OPA Gatekeeper
 - [ocov](https://github.com/C5T/ocov) - Colors `opa test --coverage` reports in the terminal.
 
-## Other Usecases
-
-- [SansShell](https://github.com/Snowflake-Labs/sansshell) - A non-interactive daemon for host management, where any action is authorized by OPA
-- [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool using Rego
-
-## Fun and Quirky
-
-- [How I Used OPA to Help Me Solve Wordle](https://www.styra.com/blog/how-i-used-opa-to-help-me-solve-wordle/) - OPA as a Wordle assistant
-- [Policing Christmas Tree](https://github.com/charlieegan3/policing-christmas-trees) - Using Rego to determine the correctness of Christmas tree decorations
-- [Corrupting OPA to Run My Games](https://kevinhoffman.medium.com/corrupting-the-open-policy-agent-to-run-my-game-711f340adb5a) - Fun blog on using OPA for game engines
-
 ## Tools and Utilities
 
 - [setup-opa](https://github.com/open-policy-agent/setup-opa) - GitHub action to configure the Open Policy Agent CLI in your GitHub Actions workflows
@@ -275,6 +264,18 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - A self-hosted OPA Playground Alternative
 - [Rönd](https://github.com/rond-authz/rond) - Rönd is a lightweight container that distributes security policy enforcement throughout your application
 - [rq (Rego Query)](https://git.sr.ht/~charles/rq) - jq-inspired tool to bring Rego to your shell pipelines
+
+## Other Usecases
+
+- [SansShell](https://github.com/Snowflake-Labs/sansshell) - A non-interactive daemon for host management, where any action is authorized by OPA
+- [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool using Rego
+- [ScubaGear](https://github.com/cisagov/ScubaGear/) - Using Rego policies to assess the security posture of M365 tenants, by CISA
+
+## Fun and Quirky
+
+- [How I Used OPA to Help Me Solve Wordle](https://www.styra.com/blog/how-i-used-opa-to-help-me-solve-wordle/) - OPA as a Wordle assistant
+- [Policing Christmas Tree](https://github.com/charlieegan3/policing-christmas-trees) - Using Rego to determine the correctness of Christmas tree decorations
+- [Corrupting OPA to Run My Games](https://kevinhoffman.medium.com/corrupting-the-open-policy-agent-to-run-my-game-711f340adb5a) - Fun blog on using OPA for game engines
 
 ## Support and Community
 
