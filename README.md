@@ -301,22 +301,22 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@tlhinrichs](https://twitter.com/tlhinrichs) - Tim Hinrichs 🇺🇸 - OPA co-creator
 - [@ashtalk](https://twitter.com/ashtalk) - Ash Narkar 🇺🇸 - OPA maintainer
 - [@johanfylling](https://twitter.com/johanfylling) - Johan Fylling 🇸🇪 - OPA maintainer
-- [@anderseknert](https://twitter.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate
 - [@philip_conrad](https://twitter.com/philip_conrad) - Philip Conrad 🇺🇸 - OPA maintainer
+- [@anderseknert](https://twitter.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate
+- [@charlieegan3](https://twitter.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA developer advocate
 - [@peteroneilljr](https://twitter.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate
 - [@ritazzhang](https://twitter.com/ritazzhang) - Rita Zhang 🇺🇸 - Gatekeeper maintainer
 - [@sozercan](https://twitter.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer
-- [@willbeason](https://twitter.com/willbeason) - Will Beason 🇺🇸 - Gatekeeper maintainer
 - [@johnpreese](https://twitter.com/johnpreese) - John Reese 🇺🇸 - Conftest maintainer
 
 ### Community Stars
 
 - [@m_mizutani](https://twitter.com/m_mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate
 - [@Hiroyuki_OSAKI](https://twitter.com/Hiroyuki_OSAKI) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor
-- [@charlieegan3](https://twitter.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA contributor and active community member
 - [@developerguyba](https://twitter.com/developerguyba) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects
 - [@nmeisenzahl](https://twitter.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - Frequently tweets and talks about OPA and cloud native topics
 - [@jaspervdj-luminal](https://github.com/jaspervdj-luminal) - Jasper Van der Jeugt 🇨🇭 - OPA contributor
+- [@willbeason](https://twitter.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer
 
 ## Commercial Tools
 
