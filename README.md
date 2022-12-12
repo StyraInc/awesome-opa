@@ -37,7 +37,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Fun and Quirky](#fun-and-quirky)
 - [Support and Community](#support-and-community)
 - [Recommended Reading](#recommended-reading)
-- [Twitter](#twitter)
+- [People](#people)
   - [Maintainers](#maintainers)
   - [Community Stars](#community-stars)
 - [Commercial Tools](#commercial-tools)
@@ -296,27 +296,28 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Maintainers
 
-- @open-policy-agent - Official OPA account 🌎 ([Twitter](https://twitter.com/OpenPolicyAgent))
-- @tsandall - Torin Sandall 🇨🇦 - OPA co-creator ([Twitter](https://twitter.com/sometorin))
-- [@tlhinrichs](https://twitter.com/tlhinrichs) - Tim Hinrichs 🇺🇸 - OPA co-creator
-- [@ashtalk](https://twitter.com/ashtalk) - Ash Narkar 🇺🇸 - OPA maintainer
-- [@johanfylling](https://twitter.com/johanfylling) - Johan Fylling 🇸🇪 - OPA maintainer
-- [@philip_conrad](https://twitter.com/philip_conrad) - Philip Conrad 🇺🇸 - OPA maintainer
-- [@anderseknert](https://twitter.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate
-- [@charlieegan3](https://twitter.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA developer advocate
-- [@peteroneilljr](https://twitter.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate
-- [@ritazzhang](https://twitter.com/ritazzhang) - Rita Zhang 🇺🇸 - Gatekeeper maintainer
-- [@sozercan](https://twitter.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer
-- [@johnpreese](https://twitter.com/johnpreese) - John Reese 🇺🇸 - Conftest maintainer
+- [@open-policy-agent](https://github.com/open-policy-agent) - Official OPA account 🌎 ([Twitter](https://twitter.com/OpenPolicyAgent))
+- [@tsandall](https://github.com/tsandall) - Torin Sandall 🇨🇦 - OPA co-creator ([Twitter](https://twitter.com/sometorin))
+- [@timothyhinrichs](https://github.com/timothyhinrichs) - Tim Hinrichs 🇺🇸 - OPA co-creator ([Twitter](https://twitter.com/tlhinrichs))
+- [@ashutosh-narkar](https://github.com/ashutosh-narkar) - Ash Narkar 🇺🇸 - OPA maintainer ([Twitter](https://twitter.com/ashtalk))
+- [@johanfylling](https://github.com/johanfylling/) - Johan Fylling 🇸🇪 - OPA maintainer ([Mastodon](https://hachyderm.io/@johanfylling), [Twitter](https://twitter.com/johanfylling))
+- [@philipaconrad](https://github.com/philipaconrad) - Philip Conrad 🇺🇸 - OPA maintainer ([Twitter](https://twitter.com/philip_conrad))
+- [@anderseknert](https://github.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate ([Mastodon](https://hachyderm.io/@anderseknert), [Twitter](https://twitter.com/anderseknert))
+- [@charlieegan3](https://github.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA developer advocate ([Twitter](https://twitter.com/charlieegan3))
+- [@peteroneilljr](https://github.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate ([Mastodon](https://hachyderm.io/@Peteroneilljr), [Twitter](https://twitter.com/peteroneilljr))
+- [@ritazh](https://github.com/ritazh) - Rita Zhang 🇺🇸 - Gatekeeper maintainer ([Mastodon](https://hachyderm.io/@ritazh), [Twitter](https://twitter.com/ritazzhang))
+- [@sozercan](https://github.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer ([Mastodon](https://hachyderm.io/@sozercan@mastodon.social), [Twitter](https://twitter.com/sozercan))
+- [@jpreese](https://github.com/jpreese) - John Reese 🇺🇸 - Conftest maintainer ([Mastodon](https://hachyderm.io/@jpreese), [Twitter](https://twitter.com/johnpreese))
 
 ### Community Stars
 
-- [@m_mizutani](https://twitter.com/m_mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate
-- [@Hiroyuki_OSAKI](https://twitter.com/Hiroyuki_OSAKI) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor
-- [@developerguyba](https://twitter.com/developerguyba) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects
-- [@nmeisenzahl](https://twitter.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - Frequently tweets and talks about OPA and cloud native topics
-- [@jaspervdj-luminal](https://github.com/jaspervdj-luminal) - Jasper Van der Jeugt 🇨🇭 - OPA contributor
-- [@willbeason](https://twitter.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer
+- [@Parsifal-M](https://github.com/Parsifal-M) - Peter Macdonald 🇬🇧 - OPA contributor and active community member ([Mastodon](https://hachyderm.io/@parcifal), [Twitter](https://twitter.com/_PeterM_))
+- [@m-mizutani](https://github.com/m-mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate ([Twitter](https://twitter.com/m_mizutani))
+- [@RoyOsaki](https://github.com/RoyOsaki) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor ([Twitter](https://twitter.com/Hiroyuki_OSAKI))
+- [@developer-guy](https://github.com/developer-guy) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects ([Mastodon](https://hachyderm.io/@developerguy), [Twitter](https://twitter.com/developerguyba))
+- [@nmeisenzahl](https://github.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - Frequently tweets and talks about OPA and cloud native topics ([Mastodon](https://fosstodon.org/@nmeisenzahl), [Twitter](https://twitter.com/nmeisenzahl))
+- [@jaspervdj](https://github.com/jaspervdj) - Jasper Van der Jeugt 🇨🇭 - OPA contributor ([Mastodon](https://functional.cafe/@jaspervdj), [Twitter](https://github.com/jaspervdj-luminal))
+- [@willbeason](https://github.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer ([Mastodon](https://functional.cafe/@willbeason@dair-community.social), [Twitter](https://twitter.com/willbeason))
 
 ## Commercial Tools
 
