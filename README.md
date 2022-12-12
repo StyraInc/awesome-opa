@@ -314,8 +314,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@Parsifal-M](https://github.com/Parsifal-M) - Peter Macdonald 🇬🇧 - OPA contributor and active community member ([Mastodon](https://hachyderm.io/@parcifal), [Twitter](https://twitter.com/_PeterM_))
 - [@m-mizutani](https://github.com/m-mizutani) - Masayoshi Mizutani 🇯🇵 - Security engineer. Prolific OPA & Rego advocate ([Twitter](https://twitter.com/m_mizutani))
 - [@RoyOsaki](https://github.com/RoyOsaki) - Roy Hiroyuki OSAKI 🇺🇸 - Research engineer. OPA community contributor ([Twitter](https://twitter.com/Hiroyuki_OSAKI))
-- [@developer-guy](https://github.com/developer-guy) - Batuhan Apaydin 🇹🇷 - Active member in OPA and many CNCF projects ([Mastodon](https://hachyderm.io/@developerguy), [Twitter](https://twitter.com/developerguyba))
-- [@nmeisenzahl](https://github.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - Frequently tweets and talks about OPA and cloud native topics ([Mastodon](https://fosstodon.org/@nmeisenzahl), [Twitter](https://twitter.com/nmeisenzahl))
+- [@developer-guy](https://github.com/developer-guy) - Batuhan Apaydin 🇹🇷 - OPA and many CNCF projects ([Mastodon](https://hachyderm.io/@developerguy), [Twitter](https://twitter.com/developerguyba))
+- [@nmeisenzahl](https://github.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - All about OPA and cloud native topics ([Mastodon](https://fosstodon.org/@nmeisenzahl), [Twitter](https://twitter.com/nmeisenzahl))
 - [@jaspervdj](https://github.com/jaspervdj) - Jasper Van der Jeugt 🇨🇭 - OPA contributor ([Mastodon](https://functional.cafe/@jaspervdj), [Twitter](https://github.com/jaspervdj-luminal))
 - [@willbeason](https://github.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer ([Mastodon](https://functional.cafe/@willbeason@dair-community.social), [Twitter](https://twitter.com/willbeason))
 
