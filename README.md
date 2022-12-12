@@ -292,12 +292,12 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Integration](https://snowplowanalytics.com/blog/2021/12/07/how-we-integrated-our-purely-functional-scala-backend-with-the-open-policy-agent/) - How we integrated our purely functional Scala backend with the Open Policy Agent
 - [Integration](https://medium.com/@nikman/control-user-access-and-permissions-in-cvat-with-open-policy-agent-a2abbd09774d) - Control User Access and Permissions in CVAT with Open Policy Agent
 
-## Twitter
+## People
 
 ### Maintainers
 
-- [@OpenPolicyAgent](https://twitter.com/OpenPolicyAgent) - Official OPA account 🌎
-- [@sometorin](https://twitter.com/sometorin) - Torin Sandall 🇨🇦 - OPA co-creator
+- @open-policy-agent - Official OPA account 🌎 ([Twitter](https://twitter.com/OpenPolicyAgent))
+- @tsandall - Torin Sandall 🇨🇦 - OPA co-creator ([Twitter](https://twitter.com/sometorin))
 - [@tlhinrichs](https://twitter.com/tlhinrichs) - Tim Hinrichs 🇺🇸 - OPA co-creator
 - [@ashtalk](https://twitter.com/ashtalk) - Ash Narkar 🇺🇸 - OPA maintainer
 - [@johanfylling](https://twitter.com/johanfylling) - Johan Fylling 🇸🇪 - OPA maintainer
