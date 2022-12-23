@@ -264,6 +264,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - A self-hosted OPA Playground Alternative
 - [Rönd](https://github.com/rond-authz/rond) - Rönd is a lightweight container that distributes security policy enforcement throughout your application
 - [rq (Rego Query)](https://git.sr.ht/~charles/rq) - jq-inspired tool to bring Rego to your shell pipelines
+- [opa-explorer](https://github.com/srenatus/opa-explorer) - Visual tool for exploring the different compilation stages of the OPA topdown compiler
 
 ## Other Usecases
 
