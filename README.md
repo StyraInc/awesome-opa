@@ -40,6 +40,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [People](#people)
   - [Maintainers](#maintainers)
   - [Community Stars](#community-stars)
+  - [Meetup Groups](#meetup-groups)
 - [Commercial Tools](#commercial-tools)
 - [Contributing](#contributing)
 
@@ -319,6 +320,12 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@nmeisenzahl](https://github.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - All about OPA and cloud native topics ([Mastodon](https://fosstodon.org/@nmeisenzahl), [Twitter](https://twitter.com/nmeisenzahl))
 - [@jaspervdj](https://github.com/jaspervdj) - Jasper Van der Jeugt 🇨🇭 - OPA contributor ([Mastodon](https://functional.cafe/@jaspervdj), [Twitter](https://github.com/jaspervdj-luminal))
 - [@willbeason](https://github.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer ([Mastodon](https://functional.cafe/@willbeason@dair-community.social), [Twitter](https://twitter.com/willbeason))
+
+### Meetup Groups
+
+- [Amsterdam OPA Users](https://www.meetup.com/opa-amsterdam/) 🇳🇱
+- [London OPA Meetup](https://www.meetup.com/london-opa-meetup/) 🇬🇧
+- [Stockholm OPA Users](https://www.meetup.com/stockholm-opa-meetup/) 🇸🇪
 
 ## Commercial Tools
 
