@@ -279,6 +279,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [How I Used OPA to Help Me Solve Wordle](https://www.styra.com/blog/how-i-used-opa-to-help-me-solve-wordle/) - OPA as a Wordle assistant
 - [Policing Christmas Tree](https://github.com/charlieegan3/policing-christmas-trees) - Using Rego to determine the correctness of Christmas tree decorations
 - [Corrupting OPA to Run My Games](https://kevinhoffman.medium.com/corrupting-the-open-policy-agent-to-run-my-game-711f340adb5a) - Fun blog on using OPA for game engines
+- [Colorized](https://github.com/anderseknert/colorized) - Colorized output for the OPA print function!
 
 ## Support and Community
 
