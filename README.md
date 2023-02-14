@@ -89,6 +89,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Python
 
+- [OPA Python](https://github.com/heliconhq/opa-python) - Python client library for Open Policy Agent
 - [OPA Python client](https://github.com/Turall/OPA-python-client) - Python client for OPA's REST API
 - [Flask OPA](https://github.com/EliuX/flask-opa) - OPA client for the Flask microframework
 - [Bottle Authorization](https://github.com/dolevf/bottle-acl-openpolicyagent) - Custom Bottle Application Authorization
