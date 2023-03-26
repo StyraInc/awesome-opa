@@ -199,7 +199,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [Nomad Admission Control Proxy](https://github.com/mxab/nacp) - An admission controller that can be used as a proxy to Nomad's API for mutation and validation with builtin OPA support.
 
-
 ## Datasource Integrations
 
 - [Kafka Authorizer](https://github.com/StyraInc/opa-kafka-plugin) - Kafka authorizer plugin using OPA, with example policies
