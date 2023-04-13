@@ -146,6 +146,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Enforce policies in the browser with Open Policy Agent](https://medium.com/@robertgartman/enforce-policies-in-the-browser-with-open-policy-agent-22d8e32fbfb6?source=friends_link&sk=b7a58aecd84bf7367622347a91772947) - _first_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser.
 - [Reuse Policy as Code — stay DRY](https://medium.com/@robertgartman/reuse-policy-as-code-stay-dry-7ad1229be160?source=friends_link&sk=196fd624a4027f5c33366f596dc75935) - _second_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser. This article focus on Rego and HOW
 - [OPA & Angular: Policy-as-Code in the browser](https://medium.com/@robertgartman/opa-angular-policy-as-code-in-the-browser-7bb3e5a8f60c?source=friends_link&sk=69f87b120d716a4f4f7abe5d3e1680ec) - _third_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser. Angular Proof of Concept based on article 1 & 2.
+- [Rego on WebAssembly](https://blog.openpolicyagent.org/opa-v0-15-1-rego-on-webassembly-81c226c51be4) - original OPA Wasm support blog post which summarizes how OPA's Wasm functionality works.
 
 ### Docs
 
