@@ -289,6 +289,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [SansShell](https://github.com/Snowflake-Labs/sansshell) - A non-interactive daemon for host management, where any action is authorized by OPA
 - [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool using Rego
 - [ScubaGear](https://github.com/cisagov/ScubaGear/) - Using Rego policies to assess the security posture of M365 tenants, by CISA
+- [Reposaur](https://github.com/reposaur/reposaur) - Audit, verify and report on development platforms (GitHub and others) easily with pre-defined and/or custom policies.
 
 ## Fun and Quirky
 
