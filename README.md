@@ -325,7 +325,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@philipaconrad](https://github.com/philipaconrad) - Philip Conrad 🇺🇸 - OPA maintainer ([Twitter](https://twitter.com/philip_conrad))
 - [@anderseknert](https://github.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate ([Mastodon](https://hachyderm.io/@anderseknert), [Twitter](https://twitter.com/anderseknert))
 - [@charlieegan3](https://github.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA developer advocate ([Twitter](https://twitter.com/charlieegan3))
-- [@peteroneilljr](https://github.com/peteroneilljr) - Peter O'Neill 🌎 - OPA community advocate ([Mastodon](https://hachyderm.io/@Peteroneilljr), [Twitter](https://twitter.com/peteroneilljr))
 - [@ritazh](https://github.com/ritazh) - Rita Zhang 🇺🇸 - Gatekeeper maintainer ([Mastodon](https://hachyderm.io/@ritazh), [Twitter](https://twitter.com/ritazzhang))
 - [@sozercan](https://github.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer ([Mastodon](https://hachyderm.io/@sozercan@mastodon.social), [Twitter](https://twitter.com/sozercan))
 - [@jpreese](https://github.com/jpreese) - John Reese 🇺🇸 - Conftest maintainer ([Mastodon](https://hachyderm.io/@jpreese), [Twitter](https://twitter.com/johnpreese))
@@ -339,6 +338,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@nmeisenzahl](https://github.com/nmeisenzahl) - Nico Meisenzahl 🇩🇪 - All about OPA and cloud native topics ([Mastodon](https://fosstodon.org/@nmeisenzahl), [Twitter](https://twitter.com/nmeisenzahl))
 - [@jaspervdj](https://github.com/jaspervdj) - Jasper Van der Jeugt 🇨🇭 - OPA contributor ([Mastodon](https://functional.cafe/@jaspervdj), [Twitter](https://github.com/jaspervdj-luminal))
 - [@willbeason](https://github.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer ([Mastodon](https://functional.cafe/@willbeason@dair-community.social), [Twitter](https://twitter.com/willbeason))
+- [@peteroneilljr](https://github.com/peteroneilljr) - Peter O'Neill 🌎 - Ex OPA community advocate ([Mastodon](https://hachyderm.io/@Peteroneilljr), [Twitter](https://twitter.com/peteroneilljr))
 
 ### Meetup Groups
 
