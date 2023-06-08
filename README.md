@@ -268,6 +268,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Tools and Utilities
 
+- [Regal](https://github.com/StyraInc/regal) - Regal is a linter for Rego, with the goal of making your Rego magnificent!
 - [setup-opa](https://github.com/open-policy-agent/setup-opa) - GitHub action to configure the Open Policy Agent CLI in your GitHub Actions workflows
 - [Fregot](https://github.com/fugue/fregot) - Alternative REPL implementation for Rego
 - [OPA pre-commit](https://github.com/anderseknert/pre-commit-opa) - Pre-commit hooks for OPA/Rego/Conftest development
