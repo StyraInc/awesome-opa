@@ -207,8 +207,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Elasticsearch](https://github.com/open-policy-agent/contrib/tree/master/data_filter_elasticsearch) - OPA-Elasticsearch Data Filtering Example
 - [Strimzi](https://strimzi.io/) - Kafka in kubernetes, with built-in support for OPA as authorizer
 - [Google Calendar](https://github.com/anderseknert/opa-google-calendar) - Integrating OPA with the Google Calendar API
-- [Inspektor](https://github.com/poonai/inspektor) - Access Control as Code for databases. It uses OPA to make its access decision.
+- [Inspektor](https://github.com/poonai/inspektor) - Access Control as Code for databases using OPA to make its access decision
 - [Alluxio](https://www.alluxio.io/) - Alluxio is a data orchestration tool which allows [delegating access control decisions to OPA](https://docs.alluxio.io/ee/user/2.10.0/en/security/OpenPolicyAgent-Integration.html)
+- [Trino OPA Authorizer](https://github.com/stackabletech/trino-opa-authorizer/) - Plugin for Trino that allows using OPA for authorization
 
 ### Datasource Integrations Blogs and Articles
 
