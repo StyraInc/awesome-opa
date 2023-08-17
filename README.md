@@ -354,7 +354,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ## Commercial Tools
 
 - [Styra DAS](https://www.styra.com/styra-das) - Styra Declarative Authorization Service, from the creators of OPA
-- [Styra Load](https://www.styra.com/styra-load) - Enterprise-grade authorization engine for data-heavy workloads
+- [Enterprise OPA](https://www.styra.com/enterprise-opa) - Enterprise-grade authorization engine for data-heavy workloads
 - [Scalr](https://scalr.com/) - Collaboration and Automation for Terraform, backed by OPA
 - [Fairwinds Insights](https://fairwinds.com/insights) - Run OPA policies consistently across CI/CD, Admission Control, and an multi-cluster scanner
 - [Snyk IaC](https://snyk.io/product/infrastructure-as-code-security/) - Test Infrastructure as Code source code repositories for security misconfigurations and best practices. The OPA golang libraries are used to evaluate Rego policies to detect misconfigurations in the repositories.
