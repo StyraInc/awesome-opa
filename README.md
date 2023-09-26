@@ -20,6 +20,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Node.js](#nodejs)
   - [Clojure](#clojure)
   - [Docker](#docker)
+  - [CPP](#cpp)
+  - [Rust](#rust)
 - [WebAssembly (Wasm)](#webassembly-wasm)
   - [Blogs and Articles](#webassembly-blogs-and-articles)
 - [Kubernetes](#kubernetes)
@@ -97,6 +99,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Bottle Authorization](https://github.com/dolevf/bottle-acl-openpolicyagent) - Custom Bottle Application Authorization
 - [Rego Python](https://github.com/open-policy-agent/rego-python) - Python package for interacting with Rego
 - [Sphinx Rego](https://github.com/zenitysec/sphinx-rego) - Sphinx extension that automatically documents Rego policies
+- [regopy](https://pypi.org/project/regopy/) - Python module which uses the C FFI for rego-cpp, allowing in-process Pythonic Rego policy evaluation
 
 ### Go
 
@@ -131,6 +134,14 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### Containers
 
  - [Konveyor Forklift Validation Service](https://github.com/konveyor/forklift-validation) - VM migration suitability assessment to avoid migrating VMs that are not fit for Kubevirt. Rules are applied on all the VMs of the source provider (VMware) during the initial inventory collection, then whenever a VM configuration changes.
+
+### CPP
+
+- [rego-cpp](https://microsoft.github.io/rego-cpp/) - Rego compiler and runtime implemented in C++. It provides a C FFI with Rust and Python bindings in addition to an extensible C++ implementation.
+
+### Rust
+
+- [regorust](https://crates.io/crates/regorust) - Rust crate wrapping the C FFI for rego-cpp, allowing in-process Rego policy evaluation using idiomatic Rust.
 
 ## WebAssembly (Wasm)
 
