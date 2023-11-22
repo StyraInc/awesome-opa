@@ -169,6 +169,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Kubernetes
 
+- [Meshery](https://meshery.io/) - Use Meshery to configure your multi-cluster Kubernetes environments on-premises or across clouds.
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes
 - [Gatekeeper Policy Library](https://www.github.com/open-policy-agent/gatekeeper-library) - A collection of constraint templates and sample constraints that you can use with Gatekeeper
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
