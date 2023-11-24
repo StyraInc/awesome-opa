@@ -169,15 +169,14 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ## Kubernetes
 
-- [Meshery](https://meshery.io/) - Meshery leverages built-in relationships to enforce Kubernetes configuration best practices and enhances the development process through custom rules in OPA's Rego query language
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A validating and mutating webhook that enforces CRD-based policies executed by OPA for Kubernetes
 - [Gatekeeper Policy Library](https://www.github.com/open-policy-agent/gatekeeper-library) - A collection of constraint templates and sample constraints that you can use with Gatekeeper
 - [Konstraint](https://github.com/plexsystems/konstraint) - CLI tool for working with templates and constraints when using Gatekeeper
-- [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 - [Red Hat Rego Policies](https://github.com/redhat-cop/rego-policies) - Red Hat Rego policies collection
 - [Gatekeeper Policy Manager](https://github.com/sighupio/gatekeeper-policy-manager) - Web UI for Gatekeeper policies
 - [Validating and Mutating Admission Control Example](https://github.com/tsandall/validating-and-mutating-example) - Example validating and mutation admission controller
 - [MagTape](https://github.com/tmobile/magtape) - OPA-based admission controller for policy enforcement
+- [Meshery](https://meshery.io/) - Meshery leverages built-in relationships to enforce Kubernetes configuration best practices and enhances the development process through custom rules in OPA's Rego query language
 - [Admission policy development](https://github.com/k8spin/opa-k8s-development) - OPA Kubernetes validation and mutation testing environment
 - [Gatekeeper Conftest plugin](https://github.com/clover/gatekeeper-conftest) - A Conftest plugin that transforms input objects to be compatible with OPA Gatekeeper policies.
 - [Cosign Gatekeeper Provider](https://github.com/developer-guy/cosign-gatekeeper-provider) - Cosign Provider a new provider of OPA Gatekeeper's ExternalData feature to verify container images
@@ -292,9 +291,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [OPAL](https://github.com/authorizon/opal) - Realtime policy and data updates for your OPA agents on top of websockets pub/sub
 - [OPA Action](https://github.com/koozz/opa-action) - OPA Pull-Request Assessor is a GitHub Action that checks files against policies configured in the same repo
 - [OPA Schema Examples](https://github.com/aavarghese/opa-schema-examples) - Examples of extending the OPA type checker with JSON [schemas](https://www.openpolicyagent.org/docs/latest/schemas/)
-- [Open Policy Containers](https://github.com/opcr-io/policy) - Secure software supply chains for OPA policies. Push, pull, tag, test, version, and sign OPA policies. 
+- [Open Policy Containers](https://github.com/opcr-io/policy) - Secure software supply chains for OPA policies. Push, pull, tag, test, version, and sign OPA policies.
 - [Snyk IaC Rules](https://github.com/snyk/snyk-iac-rules) - Maintain library of Rego rules, run integration tests and build WASM bundles for distribution of rules. The OPA libraries are used to build WASM bundles.
-- [Topaz](https://github.com/aserto-dev/topaz) - Topaz is an open-source application authorization project that uses OPA as the decision engine and supports Rego policies. 
+- [Topaz](https://github.com/aserto-dev/topaz) - Topaz is an open-source application authorization project that uses OPA as the decision engine and supports Rego policies.
 - [opactl](https://github.com/onelittlenightmusic/opactl) - A simple tool to turn your Rego rule into CLI command ([blog](https://itnext.io/implement-a-policy-and-use-it-in-cli-de906237c6ab))
 - [alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - A self-hosted OPA Playground Alternative
 - [Rönd](https://github.com/rond-authz/rond) - Rönd is a lightweight container that distributes security policy enforcement throughout your application
