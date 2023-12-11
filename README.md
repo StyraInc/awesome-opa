@@ -63,6 +63,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/) - OPA Gatekeeper docs
 - [Conftest](https://www.conftest.dev/) - Conftest documentation
 - [Rego Style Guide](https://github.com/StyraInc/rego-style-guide) - Style guide for Rego, providing pointers on best practices for policy authoring
+- [Regal Docs](https://docs.styra.com/regal) - Documentation for 60+ linter rules, providing an excellent reference for learning Rego
 
 ### Blogs and Articles
 
@@ -341,7 +342,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@johanfylling](https://github.com/johanfylling/) - Johan Fylling 🇸🇪 - OPA maintainer ([Mastodon](https://hachyderm.io/@johanfylling), [Twitter](https://twitter.com/johanfylling))
 - [@philipaconrad](https://github.com/philipaconrad) - Philip Conrad 🇺🇸 - OPA maintainer ([Twitter](https://twitter.com/philip_conrad))
 - [@anderseknert](https://github.com/anderseknert) - Anders Eknert 🇸🇪 - OPA developer advocate ([Mastodon](https://hachyderm.io/@anderseknert), [Twitter](https://twitter.com/anderseknert))
-- [@charlieegan3](https://github.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA developer advocate ([Twitter](https://twitter.com/charlieegan3))
+- [@charlieegan3](https://github.com/charlieegan3) - Charlie Egan 🇬🇧 - OPA developer advocate ([Mastodon](https://hachyderm.io/@charlieegan3), [Twitter](https://twitter.com/charlieegan3))
 - [@ritazh](https://github.com/ritazh) - Rita Zhang 🇺🇸 - Gatekeeper maintainer ([Mastodon](https://hachyderm.io/@ritazh), [Twitter](https://twitter.com/ritazzhang))
 - [@sozercan](https://github.com/sozercan) - Sertaç Özercan 🇺🇸 - Gatekeeper maintainer ([Mastodon](https://hachyderm.io/@sozercan@mastodon.social), [Twitter](https://twitter.com/sozercan))
 - [@jpreese](https://github.com/jpreese) - John Reese 🇺🇸 - Conftest maintainer ([Mastodon](https://hachyderm.io/@jpreese), [Twitter](https://twitter.com/johnpreese))
@@ -376,3 +377,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ## Contributing
 
 Built a great OPA integration or wrote an interesting blog or article on the topic? Submit a PR!
+Please just make sure to include something that describes how the project uses OPA, or how OPA is otherwise related.
+
+## Community
+
+For questions, discussions and announcements related to Styra products, services and open source projects, please join
+the Styra community on [Slack](https://communityinviter.com/apps/styracommunity/signup)!
