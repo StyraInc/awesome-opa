@@ -357,6 +357,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [@jaspervdj](https://github.com/jaspervdj) - Jasper Van der Jeugt 🇨🇭 - OPA contributor ([Mastodon](https://functional.cafe/@jaspervdj), [Twitter](https://github.com/jaspervdj-luminal))
 - [@willbeason](https://github.com/willbeason) - Will Beason 🇺🇸 - Ex Gatekeeper maintainer ([Mastodon](https://functional.cafe/@willbeason@dair-community.social), [Twitter](https://twitter.com/willbeason))
 - [@peteroneilljr](https://github.com/peteroneilljr) - Peter O'Neill 🌎 - Ex OPA community advocate ([Mastodon](https://hachyderm.io/@Peteroneilljr), [Twitter](https://twitter.com/peteroneilljr))
+- [@antonioberben](https://github.com/antonioberben) - Antonio Berben 🇪🇸 - OPA Contributor & Blogger ([Twitter](https://twitter.com/antonioberben))
 
 ### Meetup Groups
 
