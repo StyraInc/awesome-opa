@@ -326,7 +326,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ## Recommended Reading
 
 - [OPA Guidebook](https://sangkeon.github.io/opaguide/) - Open source, free book on Open Policy Agent, by Sangkeon Lee ([source code](https://github.com/sangkeon/opaguide_src))
-- [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) - Book on micorservices security, with dedicated section covering OPA. Freely available online.
+- [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) - Book on microservices security, with dedicated section covering OPA. Freely available online
+- [Gusto Engineering](https://engineering.gusto.com/why-logic-programming-is-the-best-choice-for-authorization/) — Why logic programming is the best choice for authorization
 - [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
 - [Integration](https://snowplowanalytics.com/blog/2021/12/07/how-we-integrated-our-purely-functional-scala-backend-with-the-open-policy-agent/) - How we integrated our purely functional Scala backend with the Open Policy Agent
 - [Integration](https://medium.com/@nikman/control-user-access-and-permissions-in-cvat-with-open-policy-agent-a2abbd09774d) - Control User Access and Permissions in CVAT with Open Policy Agent
