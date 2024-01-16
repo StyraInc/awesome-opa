@@ -142,7 +142,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Rust
 
-- [regorus](https://crates.io/crates/regorus) - A fast, light-weight Rego interpreter written in Rust. In addition to bringing the power Rego to Rust-only environments, it is intended as a platform for developing Rego tools and exploring Rego language enhancements.
+- [regorus](https://crates.io/crates/regorus) - A fast, light-weight Rego interpreter written in Rust. In addition to bringing the power of Rego to Rust-only environments, it is intended as a platform for developing Rego tools and exploring Rego language enhancements.
 - [regorust](https://crates.io/crates/regorust) - Rust crate wrapping the C FFI for rego-cpp, allowing in-process Rego policy evaluation using idiomatic Rust.
 
 
