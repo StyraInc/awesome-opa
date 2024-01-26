@@ -151,12 +151,12 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly compiled Open Policy Agent Rego policies
 - [.NET Core Library](https://github.com/christophwille/csharp-opa-wasm) - .NET SDK for calling Wasm-compiled OPA policies from .NET Core
+- [OpaDotNet](https://github.com/me-viper/OpaDotNet) - Open Policy Agent (OPA) WebAssembly dotnet core SDK
+- [OpaDotNet.Compilation](https://github.com/me-viper/OpaDotNet.Compilation) - dotnet core backend for packaging Open Policy Agent Rego policies and data files into WASM policy bundles
 - [Python Library](https://github.com/a2d24/python-opa-wasm) - Open Policy Agent WebAssembly SDK for Python
 - [Go SDK](https://github.com/open-policy-agent/opa/tree/main/internal/wasm/sdk) - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
 - [JVM](https://github.com/sangkeon/java-opa-wasm) - Java SDK for calling Wasm-compiled policies. Uses wasmtime.
 - [Rust](https://github.com/matrix-org/rust-opa-wasm) - A crate to use OPA policies compiled to Wasm
-- [OpaDotNet](https://github.com/me-viper/OpaDotNet) - Open Policy Agent (OPA) WebAssembly dotnet core SDK
-- [OpaDotNet.Compilation](https://github.com/me-viper/OpaDotNet.Compilation) - dotnet core backend for packaging Open Policy Agent Rego policies and data files into WASM policy bundles
 
 ### WebAssembly Blogs and Articles
 - [Enforce policies in the browser with Open Policy Agent](https://medium.com/@robertgartman/enforce-policies-in-the-browser-with-open-policy-agent-22d8e32fbfb6?source=friends_link&sk=b7a58aecd84bf7367622347a91772947) - _first_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser.
