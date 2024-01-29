@@ -306,6 +306,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [rq (Rego Query)](https://git.sr.ht/~charles/rq) - jq-inspired tool to bring Rego to your shell pipelines
 - [opa-explorer](https://github.com/srenatus/opa-explorer) - Visual tool for exploring the different compilation stages of the OPA topdown compiler
 - [mcov](https://github.com/styrainc/mcov) - A tool that'll check your Rego source files and report the minimum compatible OPA version required
+- [dependency-management-data (DMD)](https://dmd.tanna.dev) is a set of tooling to get a better understanding of the use of dependencies across your organisation. DMD supports using Open Policy Agent to write more complex rules around dependency usage than can be done using the SQL interface.
 
 ## Other Usecases
 
