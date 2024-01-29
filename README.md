@@ -115,6 +115,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### .NET
 
 - [ASP.NET Core](https://github.com/build-security/OPA-AspDotNetCore-Middleware) - ASP.NET Core authorization middleware
+- [OpaDotNet.Extensions.AspNetCore](https://github.com/me-viper/OpaDotNet.Extensions) - ASP.NET Core authorization infrastructure
 
 ### Node.js
 
@@ -150,6 +151,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly compiled Open Policy Agent Rego policies
 - [.NET Core Library](https://github.com/christophwille/csharp-opa-wasm) - .NET SDK for calling Wasm-compiled OPA policies from .NET Core
+- [OpaDotNet](https://github.com/me-viper/OpaDotNet) - Open Policy Agent (OPA) WebAssembly dotnet core SDK
+- [OpaDotNet.Compilation](https://github.com/me-viper/OpaDotNet.Compilation) - dotnet core backend for packaging Open Policy Agent Rego policies and data files into WASM policy bundles
 - [Python Library](https://github.com/a2d24/python-opa-wasm) - Open Policy Agent WebAssembly SDK for Python
 - [Go SDK](https://github.com/open-policy-agent/opa/tree/main/internal/wasm/sdk) - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
 - [JVM](https://github.com/sangkeon/java-opa-wasm) - Java SDK for calling Wasm-compiled policies. Uses wasmtime.
