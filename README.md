@@ -101,12 +101,14 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Rego Python](https://github.com/open-policy-agent/rego-python) - Python package for interacting with Rego
 - [Sphinx Rego](https://github.com/zenitysec/sphinx-rego) - Sphinx extension that automatically documents Rego policies
 - [regopy](https://pypi.org/project/regopy/) - Python module which uses the C FFI for rego-cpp, allowing in-process Pythonic Rego policy evaluation
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/python) - Evaluate Rego policies in Python using Regorus, a fast, lightweight Rego interpreter written in Rust.
 
 ### Go
 
 - [Go Example API Authorization](https://github.com/open-policy-agent/example-api-authz-go) - Example API authorization using OPA
 - [Fiber OPA Integration](https://github.com/gofiber/contrib/tree/main/opafiber) - OPA integration for Fiber web framework. Enables to execute Rego policies in the middlewares.
 - [HTTP API OPA middlewares](https://github.com/Joffref/opa-middleware) - Collection of OPA middlewares for your HTTP/Gin/Fiber API.
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/go) - Golang bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.
 
 ### PHP
 
@@ -116,10 +118,12 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [ASP.NET Core](https://github.com/build-security/OPA-AspDotNetCore-Middleware) - ASP.NET Core authorization middleware
 - [OpaDotNet.Extensions.AspNetCore](https://github.com/me-viper/OpaDotNet.Extensions) - ASP.NET Core authorization infrastructure
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/csharp) - C# bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.
 
 ### Node.js
 
 - [OPA Express](https://github.com/build-security/opa-express-middleware) - OPA client for the Express framework
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/wasm) - Evaluate Rego policies in WASM using Regorus. Try it out at [Regorus Playground](https://anakrish.github.io/regorus-playground/).
 
 ### Clojure
 
@@ -140,10 +144,11 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 ### CPP
 
 - [rego-cpp](https://microsoft.github.io/rego-cpp/) - Rego compiler and runtime implemented in C++. It provides a C FFI with Rust and Python bindings in addition to an extensible C++ implementation.
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/cpp) - C++ bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.
 
 ### Rust
 
-- [regorus](https://crates.io/crates/regorus) - A fast, light-weight Rego interpreter written in Rust. In addition to bringing the power of Rego to Rust-only environments, it is intended as a platform for developing Rego tools and exploring Rego language enhancements.
+- [regorus](https://crates.io/crates/regorus) - A fast, lightweight Rego interpreter written in Rust. In addition to bringing the power of Rego to Rust-only environments, it is intended as a platform for developing Rego tools and exploring Rego language enhancements.
 - [regorust](https://crates.io/crates/regorust) - Rust crate wrapping the C FFI for rego-cpp, allowing in-process Rego policy evaluation using idiomatic Rust.
 
 
@@ -156,7 +161,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Python Library](https://github.com/a2d24/python-opa-wasm) - Open Policy Agent WebAssembly SDK for Python
 - [Go SDK](https://github.com/open-policy-agent/opa/tree/main/internal/wasm/sdk) - a small Go library for using WebAssembly compiled Open Policy Agent Rego policies
 - [JVM](https://github.com/sangkeon/java-opa-wasm) - Java SDK for calling Wasm-compiled policies. Uses wasmtime.
-- [Rust](https://github.com/matrix-org/rust-opa-wasm) - A crate to use OPA policies compiled to Wasm
+- [Rust](https://github.com/matrix-org/rust-opa-wasm) - A crate to use OPA policies compiled to Wasm.
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/wasm) - Evaluate Rego policies in WASM using Regorus. Try it out at [Regorus Playground](https://anakrish.github.io/regorus-playground/).
 
 ### WebAssembly Blogs and Articles
 - [Enforce policies in the browser with Open Policy Agent](https://medium.com/@robertgartman/enforce-policies-in-the-browser-with-open-policy-agent-22d8e32fbfb6?source=friends_link&sk=b7a58aecd84bf7367622347a91772947) - _first_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser.
@@ -172,6 +178,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [OPA Wasm demo](https://opa-wasm.glitch.me/) - Demonstration of evaluating OPA's Wasm modules in the browser
 - [Snyk CLI](https://github.com/snyk/snyk) - Test Infrastructure as Code source code for security misconfigurations and best practices in the local console. The npm-opa-wasm library is used to run WASM bundle of Rego policies to detect misconfiguration.
+- [regorus](https://github.com/microsoft/regorus/tree/main/bindings/wasm) - Evaluate Rego policies in WASM using Regorus. Try it out at [Regorus Playground](https://anakrish.github.io/regorus-playground/).
 
 ## Kubernetes
 
