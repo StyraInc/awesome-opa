@@ -36,6 +36,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Serverless](#serverless)
   - [Blogs and Articles](#serverless-blogs-and-articles)
 - [Testing](#testing)
+  - [Blogs and Articles](#testing-blogs-and-articles)
 - [Tools and Utilities](#tools-and-utilities)
 - [Other Usecases](#other-usecases)
 - [Fun and Quirky](#fun-and-quirky)
@@ -244,6 +245,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=tsandall.opa) - Develop, test, debug, and analyze policies for OPA in VS Code
 - [IntelliJ plugin](https://github.com/open-policy-agent/opa-idea-plugin) - OPA plugin for the IntelliJ IDE
+- [Zed Extension](https://github.com/StyraInc/zed-rego) - Zed extension for OPA and Rego leveraging [Regal](https://docs.styra.com/regal)
 - [Emacs](https://github.com/psibi/rego-mode) - Emacs Major mode for working with Rego
 - [Vim](https://github.com/tsandall/vim-rego) - Vim plugin for the Rego language, with support for syntax highlighting
 - [Null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more. Supports linting rego files.
@@ -292,6 +294,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [gator CLI](https://open-policy-agent.github.io/gatekeeper/website/docs/gator/) - Command line unit test runner for OPA Gatekeeper
 - [ocov](https://github.com/C5T/ocov) - Colors `opa test --coverage` reports in the terminal
 - [opa-codecov](https://github.com/SVilgelm/opa-codecov) - Convert OPA test coverage report to a JSON format supported by Codecov
+
+### Testing Blogs and Articles
+
+- [Advanced Rego Testing Techniques](https://www.styra.com/blog/advanced-rego-testing-techniques/) - Great blog on testing patterns for Rego, by Nicholaos Mouzourakis
 
 ## Tools and Utilities
 
