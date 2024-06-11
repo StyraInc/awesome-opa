@@ -22,6 +22,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
   - [Docker](#docker)
   - [CPP](#cpp)
   - [Rust](#rust)
+  - [Typescript]("#typescript")
 - [WebAssembly (Wasm)](#webassembly-wasm)
   - [Blogs and Articles](#webassembly-blogs-and-articles)
 - [Kubernetes](#kubernetes)
@@ -86,6 +87,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Java
 
+- [Styra Java SDK](https://github.com/StyraInc/opa-java) - Java SDK for interacting with OPA ([documentation](https://docs.styra.com/sdk))
 - [Jarl](https://github.com/johanfylling/jarl) - Native evaluation of Rego in the JVM, via OPA's IR format ([blog](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d))
 - [OPA Java Client](https://github.com/Bisnode/opa-java-client) - Generic Java client to query OPA's REST API
 - [Spring Security](https://github.com/Bisnode/opa-spring-security) - OPA Spring Security Library
@@ -117,6 +119,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### .NET
 
+- [Styra C# SDK](https://github.com/StyraInc/opa-csharp) - C# SDK for interacting with OPA ([documentation](https://docs.styra.com/sdk))
 - [ASP.NET Core](https://github.com/build-security/OPA-AspDotNetCore-Middleware) - ASP.NET Core authorization middleware
 - [OpaDotNet.Extensions.AspNetCore](https://github.com/me-viper/OpaDotNet.Extensions) - ASP.NET Core authorization infrastructure
 - [regorus](https://github.com/microsoft/regorus/tree/main/bindings/csharp) - C# bindings to Regorus, a fast, lightweight Rego interpreter written in Rust.
@@ -152,6 +155,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [regorus](https://crates.io/crates/regorus) - A fast, lightweight Rego interpreter written in Rust. In addition to bringing the power of Rego to Rust-only environments, it is intended as a platform for developing Rego tools and exploring Rego language enhancements.
 - [regorust](https://crates.io/crates/regorust) - Rust crate wrapping the C FFI for rego-cpp, allowing in-process Rego policy evaluation using idiomatic Rust.
 
+### Typescript
+
+- [Styra OPA Typescript SDK](https://github.com/StyraInc/opa-typescript) - Typescript SDK for interacting with OPA ([documentation](https://docs.styra.com/sdk))
 
 ## WebAssembly (Wasm)
 
