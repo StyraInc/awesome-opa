@@ -80,7 +80,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Appshield](https://github.com/aquasecurity/appshield) - Open Database of rego policies for common Infrastructure as Code files
 - [Conftest policy packs](https://github.com/rallyhealth/conftest-policy-packs) - Collection of Conftest policies for "Compliance-as-Code" security policies and general engineering standards. Policies targeting Terraform, Dockerfiles, package.json (NodeJS) files, etc
 - [Confectionary](https://github.com/Cigna/confectionery) - A library of rules for Conftest used to detect Terraform misconfigurations.
-- [Kubescpe Rego library](https://github.com/kubescape/regolibrary) - Comprehensive set of Kubernetes policies from Kubescape
+- [Kubescape Rego library](https://github.com/kubescape/regolibrary) - Comprehensive set of Kubernetes policies from Kubescape
 - [Kubernetes Security Policies](https://github.com/raspbernetes/k8s-security-policies) - Raspernetes library for fortifying cluster configurations
 
 ## Language and Platform Integrations
