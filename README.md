@@ -300,7 +300,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [gator CLI](https://open-policy-agent.github.io/gatekeeper/website/docs/gator/) - Command line unit test runner for OPA Gatekeeper
 - [ocov](https://github.com/C5T/ocov) - Colors `opa test --coverage` reports in the terminal
 - [opa-codecov](https://github.com/SVilgelm/opa-codecov) - Convert OPA test coverage report to a JSON format supported by Codecov
-- [GitHub Actions for OPA Rego Policy Test](https://github.com/masterpointio/github-action-opa-rego-test) - GitHub Action to automate testing for your OPA Rego policies and generates a report.
+- [github-action-opa-rego-test](https://github.com/masterpointio/github-action-opa-rego-test) - GitHub Action to automate testing for your OPA Rego policies and generates a report.
 
 ### Testing Blogs and Articles
 
