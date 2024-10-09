@@ -203,6 +203,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary)
 - [Kove](https://github.com/cmacrae/kove) - Watch your in-cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics
 - [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing GKE clusters against best practices
+- [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) - Sidecar providing data from Kubernetes to OPA. Includes Helm charts for both projects 
 
 ### Service Mesh Authorization
 
