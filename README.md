@@ -131,7 +131,6 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Clojure
 
-
 - [Jarl](https://github.com/johanfylling/jarl) - Native evaluation of Rego in the JVM (written in Clojure), via OPA's IR format ([blog](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d))
 - [clj-opa](https://github.com/anderseknert/clj-opa) - Middleware and utilities for app authorization with OPA in Clojure
 
@@ -143,7 +142,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 ### Containers
 
- - [Konveyor Forklift Validation Service](https://github.com/konveyor/forklift-validation) - VM migration suitability assessment to avoid migrating VMs that are not fit for Kubevirt. Rules are applied on all the VMs of the source provider (VMware) during the initial inventory collection, then whenever a VM configuration changes.
+- [Konveyor Forklift Validation Service](https://github.com/konveyor/forklift-validation) - VM migration suitability assessment to avoid migrating VMs that are not fit for Kubevirt. Rules are applied on all the VMs of the source provider (VMware) during the initial inventory collection, then whenever a VM configuration changes.
 
 ### CPP
 
@@ -172,6 +171,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [regorus](https://github.com/microsoft/regorus/tree/main/bindings/wasm) - Evaluate Rego policies in WASM using Regorus. Try it out at [Regorus Playground](https://anakrish.github.io/regorus-playground/).
 
 ### WebAssembly Blogs and Articles
+
 - [Enforce policies in the browser with Open Policy Agent](https://medium.com/@robertgartman/enforce-policies-in-the-browser-with-open-policy-agent-22d8e32fbfb6?source=friends_link&sk=b7a58aecd84bf7367622347a91772947) - _first_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser.
 - [Reuse Policy as Code — stay DRY](https://medium.com/@robertgartman/reuse-policy-as-code-stay-dry-7ad1229be160?source=friends_link&sk=196fd624a4027f5c33366f596dc75935) - _second_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser. This article focus on Rego and HOW
 - [OPA & Angular: Policy-as-Code in the browser](https://medium.com/@robertgartman/opa-angular-policy-as-code-in-the-browser-7bb3e5a8f60c?source=friends_link&sk=69f87b120d716a4f4f7abe5d3e1680ec) - _third_ article in a series of three covering why and how to reuse backend Policy-as-Code in the browser. Angular Proof of Concept based on article 1 & 2.
@@ -203,7 +203,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Kubescape](https://github.com/armosec/kubescape) - Kubescape is tool for scanning Kubernetes clusters for security issues. Kubescape tests (rules) are based completely on OPA. See the regos [here](https://github.com/armosec/regolibrary)
 - [Kove](https://github.com/cmacrae/kove) - Watch your in-cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics
 - [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing GKE clusters against best practices
-- [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) - Sidecar providing data from Kubernetes to OPA. Includes Helm charts for both projects 
+- [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) - Sidecar providing data from Kubernetes to OPA. Includes Helm charts for both projects
 
 ### Service Mesh Authorization
 
@@ -355,9 +355,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [OPA Guidebook](https://sangkeon.github.io/opaguide/) - Open source, free book on Open Policy Agent, by Sangkeon Lee ([source code](https://github.com/sangkeon/opaguide_src))
 - [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action) - Book on microservices security, with dedicated section covering OPA. Freely available online
-- [Gusto Engineering](https://engineering.gusto.com/why-logic-programming-is-the-best-choice-for-authorization/) — Why logic programming is the best choice for authorization
-- [Fugue](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa) - 5 tips for using the Rego language for Open Policy Agent
-- [Integration](https://snowplowanalytics.com/blog/2021/12/07/how-we-integrated-our-purely-functional-scala-backend-with-the-open-policy-agent/) - How we integrated our purely functional Scala backend with the Open Policy Agent
+- [Gusto Engineering](https://engineering.gusto.com/why-logic-programming-is-the-best-choice-for-authorization-70f95164dee7) — Why logic programming is the best choice for authorization
+- [Fugue (now Snyk)](https://snyk.io/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa/) - 5 tips for using the Rego language for Open Policy Agent
 - [Integration](https://medium.com/@nikman/control-user-access-and-permissions-in-cvat-with-open-policy-agent-a2abbd09774d) - Control User Access and Permissions in CVAT with Open Policy Agent
 
 ## People
