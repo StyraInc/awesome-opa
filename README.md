@@ -336,6 +336,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [goast](https://github.com/m-mizutani/goast) - Go AST (Abstract Syntax Tree) based static analysis tool using Rego
 - [ScubaGear](https://github.com/cisagov/ScubaGear/) - Using Rego policies to assess the security posture of M365 tenants, by CISA
 - [Reposaur](https://github.com/reposaur/reposaur) - Audit, verify and report on development platforms (GitHub and others) easily with pre-defined and/or custom policies.
+- [backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Plugins for integrating OPA with [Backstage](https://backstage.io/), including OPA-based authorisation.
 
 ## Fun and Quirky
 
