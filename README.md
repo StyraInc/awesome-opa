@@ -263,6 +263,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Nano](https://github.com/scopatz/nanorc) - Syntax highlighting for Nano
 - [Prism](https://prismjs.com/) - Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind (supports Rego)
 - [tree-sitter-rego](https://github.com/FallenAngel97/tree-sitter-rego) - Tree-sitter grammar for Rego ([blog](https://decodeapps.pp.ua/blog/post/rego-treesitter))
+- [highlight.js](https://github.com/StyraInc/highlightjs-rego) - Rego syntax support for [highlight.js](https://highlightjs.org/)
 
 ## Infrastructure as Code
 
