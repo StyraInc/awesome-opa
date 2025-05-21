@@ -158,6 +158,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 
 - [Styra OPA Typescript SDK](https://github.com/StyraInc/opa-typescript) - Typescript SDK for interacting with OPA ([documentation](https://docs.styra.com/sdk))
 
+### Swift
+- [swift-opa](https://github.com/open-policy-agent/swift-opa) - Swift package for evaluating OPA IR Plans compiled from Rego declarative policy 
+
 ## WebAssembly (Wasm)
 
 - [NPM module](https://github.com/open-policy-agent/npm-opa-wasm/) - a small SDK for using WebAssembly compiled Open Policy Agent Rego policies
